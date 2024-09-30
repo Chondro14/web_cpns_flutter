@@ -3,7 +3,7 @@
     "data": [
         {
             "question_id": "0fb5a84e-9c06-45b5-ac11-97604bdd4ae7",
-            "question_value": "Salah satu contoh nilai persatuan Indonesia adalah bahwa semangat kebangsaan diarahkan pada pelindungan segenap bangsa dan seluruh tumpah darah Indonesia yang senasib sepenanggungan dalam bingkai NKRI. Bukti bahwa nilai tersebut digali budaya bangsa Indonesia adalah … ",
+            "question_value": "Salah satu contoh nilai persatuan Indonesia adalah bahwa semangat kebangsaan diarahkan pada perlindungan segenap bangsa dan seluruh tumpah darah Indonesia yang senasib sepenanggungan dalam bingkai NKRI. Bukti bahwa nilai tersebut digali budaya bangsa Indonesia adalah … ",
             "question_type": "TWK",
             "answers": [
                 {
@@ -1600,6 +1600,1937 @@
                     "answer_value": "-1,60"
                 }
             ]
-        }
+        },
+        {
+            "question_id": "9c7dcd9c-cfc0-4c06-9a06-ba7251eeb79f",
+            "question_image": "assets/question_image/soalno51.png",
+            "question_value": "Sebuah mobil melaju dari kota A ke kota B dengan kecepatan 225 km/jam bisa menghabiskan bahan bakar 25 liter. Hubungan yang tepat antara kedua kuantitas di atas adalah ",
+            "question_type": "TUI",
+            "answers": [
+                {
+                    "question_id": "9c7dcd9c-cfc0-4c06-9a06-ba7251eeb79f",
+                    "answer_id": "a",
+                    "answer_value": "X > Y"
+                },
+                {
+                    "question_id": "9c7dcd9c-cfc0-4c06-9a06-ba7251eeb79f",
+                    "answer_id": "b",
+                    "answer_value": "X < Y"
+                },
+                {
+                    "question_id": "9c7dcd9c-cfc0-4c06-9a06-ba7251eeb79f",
+                    "answer_id": "c",
+                    "answer_value": "X = 2Y"
+                },
+                {
+                    "question_id": "9c7dcd9c-cfc0-4c06-9a06-ba7251eeb79f",
+                    "answer_id": "d",
+                    "answer_value": "2X = 2Y"
+                },
+                {
+                    "question_id": "9c7dcd9c-cfc0-4c06-9a06-ba7251eeb79f",
+                    "answer_id": "e",
+                    "answer_value": "Y = 2X"
+                }
+            ]
+        },
+        {
+            "question_id": "edb7b3a6-2d15-4fea-9936-60d341f018d9",
+            "question_image": "assets/question_image/soalno52.png",
+            "question_value": "Mobil pak Amir menempuh perjalanan selama 3/4 jam dengan menghabiskan bensin sebanyak 30 liter. Hubungan yang tepat antara kedua kuantitas di atas adalah ...",
+            "question_type": "TUI",
+            "answers": [
+                {
+                    "question_id": "edb7b3a6-2d15-4fea-9936-60d341f018d9",
+                    "answer_id": "a",
+                    "answer_value": "X = Y"
+                },
+                {
+                    "question_id": "edb7b3a6-2d15-4fea-9936-60d341f018d9",
+                    "answer_id": "b",
+                    "answer_value": "X > 2Y"
+                },
+                {
+                    "question_id": "edb7b3a6-2d15-4fea-9936-60d341f018d9",
+                    "answer_id": "c",
+                    "answer_value": "X < Y"
+                },
+                {
+                    "question_id": "edb7b3a6-2d15-4fea-9936-60d341f018d9",
+                    "answer_id": "d",
+                    "answer_value": "X >Y"
+                },
+                {
+                    "question_id": "edb7b3a6-2d15-4fea-9936-60d341f018d9",
+                    "answer_id": "e",
+                    "answer_value": "Hubungan X dan Y tidak dapat ditentukan"
+                }
+            ]
+        },
+        {
+            "question_id": "c60addad-64b9-430a-ab3e-7448beb34b3c",
+            "question_image": "assets/question_image/soalno53.png",
+            "question_value": "Panti Asuhan Nur Sholeh mendapatkan sumbangan berupa uang yang jika dibagikan kepada 20 orang anak maka masing-masing anak akan mendapatkan sebesar Rp.125.000. Hubungan yang tepat antara kedua kuantitas di atas adalah …",
+            "question_type": "TUI",
+            "answers": [
+                {
+                    "question_id": "c60addad-64b9-430a-ab3e-7448beb34b3c",
+                    "answer_id": "a",
+                    "answer_value": "X < Y"
+                },
+                {
+                    "question_id": "c60addad-64b9-430a-ab3e-7448beb34b3c",
+                    "answer_id": "b",
+                    "answer_value": "X = Y"
+                },
+                {
+                    "question_id": "c60addad-64b9-430a-ab3e-7448beb34b3c",
+                    "answer_id": "c",
+                    "answer_value": "X =3Y"
+                },
+                {
+                    "question_id": "c60addad-64b9-430a-ab3e-7448beb34b3c",
+                    "answer_id": "d",
+                    "answer_value": "3X = 2Y"
+                },
+                {
+                    "question_id": "c60addad-64b9-430a-ab3e-7448beb34b3c",
+                    "answer_id": "e",
+                    "answer_value": "2X =3Y"
+                }
+            ]
+        },
+        {
+            "question_id": "8cb44745-4e04-47d0-b794-3c4b10e57f3b",
+            "question_image": "assets/question_image/soalno54.png",
+            "question_value": "Diketahui x = 6 dan y= ¾. Hubungan yang tepat untuk kedua kuantitas di atas adalah …",
+            "question_type": "TUI",
+            "answers": [
+                {
+                    "question_id": "8cb44745-4e04-47d0-b794-3c4b10e57f3b",
+                    "answer_id": "a",
+                    "answer_value": "P > Q"
+                },
+                {
+                    "question_id": "8cb44745-4e04-47d0-b794-3c4b10e57f3b",
+                    "answer_id": "b",
+                    "answer_value": "Q > P"
+                },
+                {
+                    "question_id": "8cb44745-4e04-47d0-b794-3c4b10e57f3b",
+                    "answer_id": "c",
+                    "answer_value": "P = Q"
+                },
+                {
+                    "question_id": "8cb44745-4e04-47d0-b794-3c4b10e57f3b",
+                    "answer_id": "d",
+                    "answer_value": "4P = 3Q"
+                },
+                {
+                    "question_id": "8cb44745-4e04-47d0-b794-3c4b10e57f3b",
+                    "answer_id": "e",
+                    "answer_value": "3P = 4Q"
+                }
+            ]
+        },
+        {
+            "question_id": "d92a02db-0831-49f1-b5b2-488f78521a74",
+            "question_value": "Sebuah kolam renang yang berada di arena olahraga dapat dikuras dalam waktu 3,5 jam melalui 6 saluran pembuangan. Jika 2 saluran tidak berrfungsi sehingga tidak bisa digunakan, waktu yang dibutuhkan untuk menguras kolam tersebut adalah ...",
+            "question_type": "TUI",
+            "answers": [
+                {
+                    "question_id": "d92a02db-0831-49f1-b5b2-488f78521a74",
+                    "answer_id": "a",
+                    "answer_value": "5,25 jam"
+                },
+                {
+                    "question_id": "d92a02db-0831-49f1-b5b2-488f78521a74",
+                    "answer_id": "b",
+                    "answer_value": "5,5 jam"
+                },
+                {
+                    "question_id": "d92a02db-0831-49f1-b5b2-488f78521a74",
+                    "answer_id": "c",
+                    "answer_value": "6 jam"
+                },
+                {
+                    "question_id": "d92a02db-0831-49f1-b5b2-488f78521a74",
+                    "answer_id": "d",
+                    "answer_value": "6,5 jam"
+                },
+                {
+                    "question_id": "d92a02db-0831-49f1-b5b2-488f78521a74",
+                    "answer_id": "e",
+                    "answer_value": "7 jam"
+                }
+            ]
+        },
+        {
+            "question_id": "eb2ada04-7e0e-4871-aadc-384687b314c4",
+            "question_value": "Suatu perusahan konveksi mempekerjakan 80 orang pekerja dapat membuat 20 jahitan dalam waktu 24 jam. Berapa jahitan yang dapat dihasilkan dalam waktu 18 jam denganjumlah pekerja 80 orang tersebut ? ",
+            "question_type": "TUI",
+            "answers": [
+                {
+                    "question_id": "eb2ada04-7e0e-4871-aadc-384687b314c4",
+                    "answer_id": "a",
+                    "answer_value": "15 jahitan"
+                },
+                {
+                    "question_id": "eb2ada04-7e0e-4871-aadc-384687b314c4",
+                    "answer_id": "b",
+                    "answer_value": "16 jahitan"
+                },
+                {
+                    "question_id": "eb2ada04-7e0e-4871-aadc-384687b314c4",
+                    "answer_id": "c",
+                    "answer_value": "17 jahitan"
+                },
+                {
+                    "question_id": "eb2ada04-7e0e-4871-aadc-384687b314c4",
+                    "answer_id": "d",
+                    "answer_value": "22 jahitan"
+                },
+                {
+                    "question_id": "eb2ada04-7e0e-4871-aadc-384687b314c4",
+                    "answer_id": "e",
+                    "answer_value": "24 jahitan"
+                }
+            ]
+        },
+        {
+            "question_id": "98485e90-e03a-4781-9572-f72ff27f9c4b",
+            "question_value": "Untuk membuat 12 cangkir kopi yang enak, seorang barista memerlukan biji kopi sebanyak 144 gram. Jika Barista tersebut ingin membuat 30 cangkir kopi untuk pelanggannya, biji kopi yang diperlukan adalah …",
+            "question_type": "TUI",
+            "answers": [
+                {
+                    "question_id": "98485e90-e03a-4781-9572-f72ff27f9c4b",
+                    "answer_id": "a",
+                    "answer_value": "300 gram"
+                },
+                {
+                    "question_id": "98485e90-e03a-4781-9572-f72ff27f9c4b",
+                    "answer_id": "b",
+                    "answer_value": "320 gram"
+                },
+                {
+                    "question_id": "98485e90-e03a-4781-9572-f72ff27f9c4b",
+                    "answer_id": "c",
+                    "answer_value": "360 gram"
+                },
+                {
+                    "question_id": "98485e90-e03a-4781-9572-f72ff27f9c4b",
+                    "answer_id": "d",
+                    "answer_value": "400 gram"
+                },
+                {
+                    "question_id": "98485e90-e03a-4781-9572-f72ff27f9c4b",
+                    "answer_id": "e",
+                    "answer_value": "500 gram"
+                }
+            ]
+        },
+        {
+            "question_id": "a65dbe7a-6542-4df2-826e-be14dae9ff41",
+            "question_value": "Hari libur Bimo berkendara dari rumahnya menuju pegunungan. Ia berangkat dari rumah pukul 05.30 WITA dengan kecepatan 40 km/jam sehingga untuk sampai ke pegunungan memerlukan waktu 6 jam. Saat ini Bimo meningkatkan kecepatannya menjadi 60 km/jam. Bimo akan tiba di pegunungan pada pukul …",
+            "question_type": "TUI",
+            "answers": [
+                {
+                    "question_id": "a65dbe7a-6542-4df2-826e-be14dae9ff41",
+                    "answer_id": "a",
+                    "answer_value": "09.30"
+                },
+                {
+                    "question_id": "a65dbe7a-6542-4df2-826e-be14dae9ff41",
+                    "answer_id": "b",
+                    "answer_value": "10.00"
+                },
+                {
+                    "question_id": "a65dbe7a-6542-4df2-826e-be14dae9ff41",
+                    "answer_id": "c",
+                    "answer_value": "10.30"
+                },
+                {
+                    "question_id": "a65dbe7a-6542-4df2-826e-be14dae9ff41",
+                    "answer_id": "d",
+                    "answer_value": "11.00"
+                },
+                {
+                    "question_id": "a65dbe7a-6542-4df2-826e-be14dae9ff41",
+                    "answer_id": "e",
+                    "answer_value": "11.30"
+                }
+            ]
+        },
+        {
+            "question_id": "9e9bb0ee-c038-4c1f-9358-cf9e6cb21133",
+            "question_image":"assets/question_image/soalno59.png",
+            "question_value": "Perhatikan tabel berikut!. Suatu channel youtube dapat dimonetisasi jika memenuhi syarat jumlah tayang minimal 5000 jam dan banyak subscriber 1000, maka channel youtube yang bisa dimonetisasi adalah ...",
+            "question_type": "TUI",
+            "answers": [
+                {
+                    "question_id": "9e9bb0ee-c038-4c1f-9358-cf9e6cb21133",
+                    "answer_id": "a",
+                    "answer_value": "A, B dan C"
+                },
+                {
+                    "question_id": "9e9bb0ee-c038-4c1f-9358-cf9e6cb21133",
+                    "answer_id": "b",
+                    "answer_value": "A, F dan G"
+                },
+                {
+                    "question_id": "9e9bb0ee-c038-4c1f-9358-cf9e6cb21133",
+                    "answer_id": "c",
+                    "answer_value": "E, F dan H"
+                },
+                {
+                    "question_id": "9e9bb0ee-c038-4c1f-9358-cf9e6cb21133",
+                    "answer_id": "d",
+                    "answer_value": "A, E dan F"
+                },
+                {
+                    "question_id": "9e9bb0ee-c038-4c1f-9358-cf9e6cb21133",
+                    "answer_id": "e",
+                    "answer_value": "F, G dan H"
+                }
+            ]
+        },
+        {
+            "question_id": "af139476-48f8-41be-a1f7-66eeb7524f61",
+            "question_image":"assets/question_image/soalno60.png",
+            "question_value": "Perhatikan tabel berikut!. Jika beasiswa akan diberikan kepada siswa dengan syarat batas minimal nilai Kimia untuk siswa perempuan adalah 76 dan laki-laki 75, sedangkan batas nilai Fisika adalah 73 tanpa memperhatikan jenis kelamin, maka yang akan menerima beasiswa adalah ...",
+            "question_type": "TUI",
+            "answers": [
+                {
+                    "question_id": "af139476-48f8-41be-a1f7-66eeb7524f61",
+                    "answer_id": "a",
+                    "answer_value": "Eva"
+                },
+                {
+                    "question_id": "af139476-48f8-41be-a1f7-66eeb7524f61",
+                    "answer_id": "b",
+                    "answer_value": "Bulan"
+                },
+                {
+                    "question_id": "af139476-48f8-41be-a1f7-66eeb7524f61",
+                    "answer_id": "c",
+                    "answer_value": "Arman"
+                },
+                {
+                    "question_id": "af139476-48f8-41be-a1f7-66eeb7524f61",
+                    "answer_id": "d",
+                    "answer_value": "Caca"
+                },
+                {
+                    "question_id": "af139476-48f8-41be-a1f7-66eeb7524f61",
+                    "answer_id": "e",
+                    "answer_value": "Fandi"
+                }
+            ]
+        },
+        {
+            "question_id": "4ba2a7a1-0611-4497-a3a3-af0a45c57025",
+            "question_image":"assets/question_image/soalno61.png",
+            "question_value": "Berikut ini daftar harga tiket perjalanan dari travel SAHN. Jika harga tiket yang murah telah terbukti meningkatkan minat pelanggan, jurusan manakah yang paling diminati di travel SAHN ? ",
+            "question_type": "TUI",
+            "answers": [
+                {
+                    "question_id": "4ba2a7a1-0611-4497-a3a3-af0a45c57025",
+                    "answer_id": "a",
+                    "answer_value": "Bandung – Cirebon"
+                },
+                {
+                    "question_id": "4ba2a7a1-0611-4497-a3a3-af0a45c57025",
+                    "answer_id": "b",
+                    "answer_value": "Bandung – Jakarta"
+                },
+                {
+                    "question_id": "4ba2a7a1-0611-4497-a3a3-af0a45c57025",
+                    "answer_id": "c",
+                    "answer_value": "Bandung – Purwakarta"
+                },
+                {
+                    "question_id": "4ba2a7a1-0611-4497-a3a3-af0a45c57025",
+                    "answer_id": "d",
+                    "answer_value": "Bandung – Depok"
+                },
+                {
+                    "question_id": "4ba2a7a1-0611-4497-a3a3-af0a45c57025",
+                    "answer_id": "e",
+                    "answer_value": "Bandung - Bekasi"
+                }
+            ]
+        },
+        {
+            "question_id": "9e7bb95f-f090-4c20-9ee9-84a9312b9116",
+            "question_image":"assets/question_image/soalno62.png",
+            "question_value": "Perhatikan tabel berikut!. Tabel diatas menunjukan data rata-rata jumlah penjualan mobil merk A seIndonesia setiap bulannya pada tahun 2019. Pada bulan apa terdapat selisih terbesar jumlah penjualan mobil antara tipe MPV dan SUV?",
+            "question_type": "TUI",
+            "answers": [
+                {
+                    "question_id": "9e7bb95f-f090-4c20-9ee9-84a9312b9116",
+                    "answer_id": "a",
+                    "answer_value": "Bulan April"
+                },
+                {
+                    "question_id": "9e7bb95f-f090-4c20-9ee9-84a9312b9116",
+                    "answer_id": "b",
+                    "answer_value": "Bulan Mei"
+                },
+                {
+                    "question_id": "9e7bb95f-f090-4c20-9ee9-84a9312b9116",
+                    "answer_id": "c",
+                    "answer_value": "Bulan Juni"
+                },
+                {
+                    "question_id": "9e7bb95f-f090-4c20-9ee9-84a9312b9116",
+                    "answer_id": "d",
+                    "answer_value": "Bulan Juli"
+                },
+                {
+                    "question_id": "9e7bb95f-f090-4c20-9ee9-84a9312b9116",
+                    "answer_id": "e",
+                    "answer_value": "Bulan Agustus"
+                }
+            ]
+        },
+        {
+            "question_id": "ff56e9dd-ec2b-4016-866d-204f32567646",
+            "question_image":"assets/question_image/soalno63.png",
+            "question_value": "Carilah dari lima pilihan jawaban di bawah ini yang merupakan pengganti tanda tanya yang memiliki logika yang sama dengan pasangan gambar yang lengkap!",
+            "question_type": "TUI",
+            "answers": [
+                {
+                    "question_id": "ff56e9dd-ec2b-4016-866d-204f32567646",
+                    "answer_id": "a",
+                    "answer_value": "assets/answer_image/answerAsoal63.png"
+                },
+                {
+                    "question_id": "ff56e9dd-ec2b-4016-866d-204f32567646",
+                    "answer_id": "b",
+                    "answer_value": "assets/answer_image/answerBsoal63.png"
+                },
+                {
+                    "question_id": "ff56e9dd-ec2b-4016-866d-204f32567646",
+                    "answer_id": "c",
+                    "answer_value": "assets/answer_image/answerCsoal63.png"
+                },
+                {
+                    "question_id": "ff56e9dd-ec2b-4016-866d-204f32567646",
+                    "answer_id": "d",
+                    "answer_value": "assets/answer_image/answerDsoal63.png"
+                },
+                {
+                    "question_id": "ff56e9dd-ec2b-4016-866d-204f32567646",
+                    "answer_id": "e",
+                    "answer_value": "assets/answer_image/answerEsoal63.png"
+                }
+            ]
+        },
+        {
+            "question_id": "468aa741-a970-4b1f-8405-0131dbfbe53f",
+            "question_image":"assets/question_image/soalno64.png",
+            "question_value": "Carilah dari lima pilihan jawaban di bawah ini yang merupakan pengganti tanda tanya yang memiliki logika yang sama dengan pasangan gambar yang lengkap!",
+            "question_type": "TUI",
+            "answers": [
+                {
+                    "question_id": "468aa741-a970-4b1f-8405-0131dbfbe53f",
+                    "answer_id": "a",
+                    "answer_value": "assets/answer_image/answerAsoal64.png"
+                },
+                {
+                    "question_id": "468aa741-a970-4b1f-8405-0131dbfbe53f",
+                    "answer_id": "b",
+                    "answer_value": "assets/answer_image/answerBsoal64.png"
+                },
+                {
+                    "question_id": "468aa741-a970-4b1f-8405-0131dbfbe53f",
+                    "answer_id": "c",
+                    "answer_value": "assets/answer_image/answerCsoal64.png"
+                },
+                {
+                    "question_id": "468aa741-a970-4b1f-8405-0131dbfbe53f",
+                    "answer_id": "d",
+                    "answer_value": "assets/answer_image/answerDsoal64.png"
+                },
+                {
+                    "question_id": "468aa741-a970-4b1f-8405-0131dbfbe53f",
+                    "answer_id": "e",
+                    "answer_value": "assets/answer_image/answerEsoal64.png"
+                }
+            ]
+        },
+        {
+            "question_id": "753493d2-b89d-439e-b80d-137f497c9e0a",
+            "question_image":"assets/question_image/soalno65.png",
+            "question_value": "Carilah dari lima pilihan jawaban di bawah ini yang merupakan pengganti tanda tanya yang memiliki logika yang sama dengan pasangan gambar yang lengkap!",
+            "question_type": "TUI",
+            "answers": [
+                {
+                    "question_id": "753493d2-b89d-439e-b80d-137f497c9e0a",
+                    "answer_id": "a",
+                    "answer_value": "assets/answer_image/answerAsoal65.png"
+                },
+                {
+                    "question_id": "753493d2-b89d-439e-b80d-137f497c9e0a",
+                    "answer_id": "b",
+                    "answer_value": "assets/answer_image/answerBsoal65.png"
+                },
+                {
+                    "question_id": "753493d2-b89d-439e-b80d-137f497c9e0a",
+                    "answer_id": "c",
+                    "answer_value": "assets/answer_image/answerCsoal65.png"
+                },
+                {
+                    "question_id": "753493d2-b89d-439e-b80d-137f497c9e0a",
+                    "answer_id": "d",
+                    "answer_value": "assets/answer_image/answerDsoal65.png"
+                },
+                {
+                    "question_id": "753493d2-b89d-439e-b80d-137f497c9e0a",
+                    "answer_id": "e",
+                    "answer_value": "assets/answer_image/answerEsoal65.png"
+                }
+            ]
+        },
+        {
+            "question_id": "f4e92870-5c6e-4b1f-bb78-90f1e7631b9d",
+            "question_value": "Sebagai sosok yang disegani dan dapat diandalkan, Hasan terpilih sebagai ketua karang taruna di desanya. Setelah resmi menjabat, ia bertugas membuat susunan pengurus baru dalam waktu sebulan. Tindakan Hasan adalah…",
+            "question_type": "TKP",
+            "answers": [
+                {
+                    "question_id": "f4e92870-5c6e-4b1f-bb78-90f1e7631b9d",
+                    "answer_id": "a",
+                    "answer_value": "Meminta arahan dari ketua sebelumnya, kemudian mendiskusikan dengan anggota secara terbuka."
+                },
+                {
+                    "question_id": "f4e92870-5c6e-4b1f-bb78-90f1e7631b9d",
+                    "answer_id": "b",
+                    "answer_value": "Menyusun kepengurusan bersama dengan teman-teman dekatnya karena sudah saling terbiasa bersama- sama."
+                },
+                {
+                    "question_id": "f4e92870-5c6e-4b1f-bb78-90f1e7631b9d",
+                    "answer_id": "c",
+                    "answer_value": "Membebaskan kepada siapa pun yang berminat menjadi pengurus untuk bergabung pada periode kepengurusan tahun ini."
+                },
+                {
+                    "question_id": "f4e92870-5c6e-4b1f-bb78-90f1e7631b9d",
+                    "answer_id": "d",
+                    "answer_value": "Memberikan kesempatan secara terbuka, kemudian melalui aklamasi memilih pengurus lainnya sesuai dengan kemampuan masing- masing."
+                },
+                {
+                    "question_id": "f4e92870-5c6e-4b1f-bb78-90f1e7631b9d",
+                    "answer_id": "e",
+                    "answer_value": "Memberikan kesempatan yang sama bagi setiap anggota yang hendak mencalonkan diri, kemudian pemilihan dilakukan secara musyawarah mufakat."
+                }
+            ]
+        },
+        {
+            "question_id": "b1f3d71e-5b65-4c4f-bb64-7f1e7b44e91d",
+            "question_value": "Anik adalah karyawan yang bertugas melayani keperluan masyarakat di kantor kelurahan. Suatu hari, anak bungsunya sakit dan harus segera dibawa ke rumah sakit. Pada saat yang bersamaan, masih ada tugas penting yang harus ia selesaikan pada hari tersebut. Apa yang sebaiknya Anik lakukan?",
+            "question_type": "TKP",
+            "answers": [
+                {
+                    "question_id": "b1f3d71e-5b65-4c4f-bb64-7f1e7b44e91d",
+                    "answer_id": "a",
+                    "answer_value": "Mengerjakan satu per satu tugas yang harus diselesaikan pada hari itu sebisanya, sekalipun hati tidak tenang."
+                },
+                {
+                    "question_id": "b1f3d71e-5b65-4c4f-bb64-7f1e7b44e91d",
+                    "answer_id": "b",
+                    "answer_value": "Memilah tugas kantor yang dapat ia bawa pulang dan menyelesaikannya di rumah."
+                },
+                {
+                    "question_id": "b1f3d71e-5b65-4c4f-bb64-7f1e7b44e91d",
+                    "answer_id": "c",
+                    "answer_value": "Memilah pekerjaan yang harus ia selesaikan pada hari itu dan yang dapat diteruskan keesokan hari, lalu menuntaskannya."
+                },
+                {
+                    "question_id": "b1f3d71e-5b65-4c4f-bb64-7f1e7b44e91d",
+                    "answer_id": "d",
+                    "answer_value": "Meminta pertolongan keluarga dekat untuk mengawasi anak dan meminta bantuan kolega untuk bersama- sama menyelesaikan pekerjaan."
+                },
+                {
+                    "question_id": "b1f3d71e-5b65-4c4f-bb64-7f1e7b44e91d",
+                    "answer_id": "e",
+                    "answer_value": "Mengerjakan tugas secepat mungkin agar dapat segera pulang dan mengantar anak ke rumah sakit."
+                }
+            ]
+        },
+        {
+            "question_id": "8a7d9634-4f2e-4f1d-bbf3-7501e9e0f9f0",
+            "question_value": "Salma sebagai ketua kelompok sedang memimpin jalannya pertemuan untuk membahas tugas dari dosen yang harus dikumpulkan satu minggu dari sekarang. Salah satu anggota kelompok tidak hadir pada saat itu , yang dilakukan Salma adalah..",
+            "question_type": "TKP",
+            "answers": [
+                {
+                    "question_id": "8a7d9634-4f2e-4f1d-bbf3-7501e9e0f9f0",
+                    "answer_id": "a",
+                    "answer_value": "Mengerjakan tugas dengan apa adanya sesuai kemampuan setiap anggota kelompok."
+                },
+                {
+                    "question_id": "8a7d9634-4f2e-4f1d-bbf3-7501e9e0f9f0",
+                    "answer_id": "b",
+                    "answer_value": "Mengerjakan tugas sesuai dengan suasana hati anggota kelompok."
+                },
+                {
+                    "question_id": "8a7d9634-4f2e-4f1d-bbf3-7501e9e0f9f0",
+                    "answer_id": "c",
+                    "answer_value": "Tetap melakukan diskusi kelompok dan pengerjaan tugas tanpa menunggu anggota yang tidak hadir."
+                },
+                {
+                    "question_id": "8a7d9634-4f2e-4f1d-bbf3-7501e9e0f9f0",
+                    "answer_id": "d",
+                    "answer_value": "Mengonfirmasi alasan ketidakhadiran anggota kelompok."
+                },
+                {
+                    "question_id": "8a7d9634-4f2e-4f1d-bbf3-7501e9e0f9f0",
+                    "answer_id": "e",
+                    "answer_value": "Membagi tugas setiap anggota kelompok dengan tetap secara aktif menghubungi teman yang tidak hadir."
+                }
+            ]
+        },
+        {
+            "question_id": "e2b76eeb-8f91-4c4d-bd9e-54be045ac1b2",
+            "question_value": "Bobi adalah karyawan tetap di bagian humas. Pada hari Sabtu dan Minggu ia bekerja sebagai jurnalis. Suatu saat ia mendapatkan tugas untuk menulis tiga berita dengan batas waktu saat hari kerja. Apa yang perlu dilakukan oleh Bobi?",
+            "question_type": "TKP",
+            "answers": [
+                {
+                    "question_id": "e2b76eeb-8f91-4c4d-bd9e-54be045ac1b2",
+                    "answer_id": "a",
+                    "answer_value": "Menulis berita sampai selesai meski mengorbankan waktu kerjanya sebagai karyawan."
+                },
+                {
+                    "question_id": "e2b76eeb-8f91-4c4d-bd9e-54be045ac1b2",
+                    "answer_id": "b",
+                    "answer_value": "Menulis berita yang disukai saja supaya dapat mencapai target maksimal."
+                },
+                {
+                    "question_id": "e2b76eeb-8f91-4c4d-bd9e-54be045ac1b2",
+                    "answer_id": "c",
+                    "answer_value": "Merencanakan tema berita dan mencari bahan dengan tetap mengelola waktu."
+                },
+                {
+                    "question_id": "e2b76eeb-8f91-4c4d-bd9e-54be045ac1b2",
+                    "answer_id": "d",
+                    "answer_value": "Menulis topik berita yang ringan, tetapi tetap menarik agar lebih mudah dikerjakan."
+                },
+                {
+                    "question_id": "e2b76eeb-8f91-4c4d-bd9e-54be045ac1b2",
+                    "answer_id": "e",
+                    "answer_value": "Fokus menyelesaikan tugas berita tepat waktu dengan mencari ide dari media sosial."
+                }
+            ]
+        },
+        {
+            "question_id": "d6f6c13c-0b60-4dff-86b1-6c89f5c3a2b9",
+            "question_value": "Yudi bekerja sebagai staf customer service pada perusahaan di bidang jasa yang mengutamakan kepuasan pelanggan. Dalam beberapa bulan terakhir ditemukan keluhan dari para pelanggan terkait dengan waktu pelayanan yang menjadi lambat. Apa yang sebaiknya dilakukan Yudi?",
+            "question_type": "TKP",
+            "answers": [
+                {
+                    "question_id": "d6f6c13c-0b60-4dff-86b1-6c89f5c3a2b9",
+                    "answer_id": "a",
+                    "answer_value": "Berupaya untuk menjawab satu persatu keluhan pelanggan yang datang dengan penuh kesabaran."
+                },
+                {
+                    "question_id": "d6f6c13c-0b60-4dff-86b1-6c89f5c3a2b9",
+                    "answer_id": "b",
+                    "answer_value": "Tetap melanjutkan pelayanan seperti biasanya karena menyadari bahwa tidak semua pelanggan bisa dipuaskan."
+                },
+                {
+                    "question_id": "d6f6c13c-0b60-4dff-86b1-6c89f5c3a2b9",
+                    "answer_id": "c",
+                    "answer_value": "Memperbaiki layanan jasa untuk pelanggan yang mengeluh agar tidak sampai tersiar di media sosial."
+                },
+                {
+                    "question_id": "d6f6c13c-0b60-4dff-86b1-6c89f5c3a2b9",
+                    "answer_id": "d",
+                    "answer_value": "Membuat survei kepuasan pelanggan dan datanya dapat digunakan untuk meningkatkan kualitas layanan secara konsisten."
+                },
+                {
+                    "question_id": "d6f6c13c-0b60-4dff-86b1-6c89f5c3a2b9",
+                    "answer_id": "e",
+                    "answer_value": "Secara berkala, minimal sebulan sekali melakukan evaluasi kinerja karyawan untuk mengoptimalkan kepuasan pelanggan."
+                }
+            ]
+        },
+        {
+            "question_id": "f0e2b81c-f15e-4d57-a7d3-82f7a5dbd57e",
+            "question_value": "Seminggu lagi akan ada kunjungan dari wali kota. Fatima sebagai anggota OSIS diminta untuk membantu guru menyiapkan beberapa acara sambutan, padahal Fatima juga sedang menyiapkan acara hari Kartini. Tindakan Fatima adalah...",
+            "question_type": "TKP",
+            "answers": [
+                {
+                    "question_id": "f0e2b81c-f15e-4d57-a7d3-82f7a5dbd57e",
+                    "answer_id": "a",
+                    "answer_value": "Berdiskusi pada guru sehingga bisa berimprovisasi jika ada perubahan di lapangan."
+                },
+                {
+                    "question_id": "f0e2b81c-f15e-4d57-a7d3-82f7a5dbd57e",
+                    "answer_id": "b",
+                    "answer_value": "Membantu guru menyiapkan acara sambutan sesuai dengan kemampuannya."
+                },
+                {
+                    "question_id": "f0e2b81c-f15e-4d57-a7d3-82f7a5dbd57e",
+                    "answer_id": "c",
+                    "answer_value": "Membagi tugas dengan anggota lain dan menyiapkan rencana alternatif untuk kedua agenda yang ada."
+                },
+                {
+                    "question_id": "f0e2b81c-f15e-4d57-a7d3-82f7a5dbd57e",
+                    "answer_id": "d",
+                    "answer_value": "Membuat rencana kegiatan saat tamu datang dan menyiapkan kunjungan ke beberapa tempat yang ada di lingkungan sekolah."
+                },
+                {
+                    "question_id": "f0e2b81c-f15e-4d57-a7d3-82f7a5dbd57e",
+                    "answer_id": "e",
+                    "answer_value": "Membuat daftar keperluan yang harus disiapkan saat acara penyambutan dan kegiatan peringatan hari Kartini."
+                }
+            ]
+        },
+        {
+            "question_id": "a1c7f3ed-14fa-4e99-b63d-e1b5e4a65470",
+            "question_value": "Sejak kepala kantor berganti, Amrizal sering habis waktunya hanya untuk memeriksa barang keluar-masuk. Sementara itu, ia merasa tidak terlalu ahli di bidang tersebut. Amrizal sebaiknya…",
+            "question_type": "TKP",
+            "answers": [
+                {
+                    "question_id": "a1c7f3ed-14fa-4e99-b63d-e1b5e4a65470",
+                    "answer_id": "a",
+                    "answer_value": "Belajar dari pengalaman sekaligus mencari referensi daring mengenai cara efektif memantau pergerakan barang."
+                },
+                {
+                    "question_id": "a1c7f3ed-14fa-4e99-b63d-e1b5e4a65470",
+                    "answer_id": "b",
+                    "answer_value": "Mempelajari prosedur standar keluar-masuk barang dengan lebih baik demi peningkatan kualitas kerja."
+                },
+                {
+                    "question_id": "a1c7f3ed-14fa-4e99-b63d-e1b5e4a65470",
+                    "answer_id": "c",
+                    "answer_value": "Tetap mengerjakan sesuai penugasan kantor sekalipun tidak dapat menjamin kualitas hasilnya."
+                },
+                {
+                    "question_id": "a1c7f3ed-14fa-4e99-b63d-e1b5e4a65470",
+                    "answer_id": "d",
+                    "answer_value": "Menerima hal tersebut sebagai tugasnya dan mencoba selalu tuntas melakukan apa yang diperintahkan."
+                },
+                {
+                    "question_id": "a1c7f3ed-14fa-4e99-b63d-e1b5e4a65470",
+                    "answer_id": "e",
+                    "answer_value": "Memprioritaskan penyelesaian pemeriksaan barang untuk barang-barang tertentu yang berharga tinggi."
+                }
+            ]
+        },
+        {
+            "question_id": "f458b6a6-36a2-43a3-a2b9-deab9e302d13",
+            "question_value": "Maya sudah mengajukan surat cuti untuk minggu depan, tetapi Kepala Sekolah mengingatkan bahwa ada beberapa tugas yang harus diselesaikan bulan ini . Apa yang harus saya lakukan jika saya sebagai Maya?",
+            "question_type": "TKP",
+            "answers": [
+                {
+                    "question_id": "f458b6a6-36a2-43a3-a2b9-deab9e302d13",
+                    "answer_id": "a",
+                    "answer_value": "Sambil mengambil cuti, saya mengerjakan tugas tersebut."
+                },
+                {
+                    "question_id": "f458b6a6-36a2-43a3-a2b9-deab9e302d13",
+                    "answer_id": "b",
+                    "answer_value": "Saya petakan tugas-tugas yang harus diselesaikan sebelum dan sesudah cuti."
+                },
+                {
+                    "question_id": "f458b6a6-36a2-43a3-a2b9-deab9e302d13",
+                    "answer_id": "c",
+                    "answer_value": "Saya susun strategi penyelesaian sehingga semua tugas bisa selesai."
+                },
+                {
+                    "question_id": "f458b6a6-36a2-43a3-a2b9-deab9e302d13",
+                    "answer_id": "d",
+                    "answer_value": "Saya kerjakan tugas setelah cuti selesai."
+                },
+                {
+                    "question_id": "f458b6a6-36a2-43a3-a2b9-deab9e302d13",
+                    "answer_id": "e",
+                    "answer_value": "Saya tetap cuti karena sudah menjadi hak saya."
+                }
+            ]
+        },
+        {
+            "question_id": "183d8d03-831d-4ab7-bcba-6cf20a228522",
+            "question_value": "Saat Dedi sedang membantu pelanggan yang sedang kebingungan di hadapan mesin pencetakan nomor antrian, seorang bapak menanyakan arah toilet yang letaknya berada di area belakang kantor pelayanan kepadanya. Apa yang perlu dilakukan oleh Dedi ?",
+            "question_type": "TKP",
+            "answers": [
+                {
+                    "question_id": "183d8d03-831d-4ab7-bcba-6cf20a228522",
+                    "answer_id": "a",
+                    "answer_value": "Meminta bapak itu untuk mencari sendiri toilet di area belakang kantor."
+                },
+                {
+                    "question_id": "183d8d03-831d-4ab7-bcba-6cf20a228522",
+                    "answer_id": "b",
+                    "answer_value": "Meminta maaf kepada bapak tersebut karena tidak bisa memenuhi permintaannya."
+                },
+                {
+                    "question_id": "183d8d03-831d-4ab7-bcba-6cf20a228522",
+                    "answer_id": "c",
+                    "answer_value": "Menyelesaikan pemberian nomor antrean, lalu mengantar bapak tersebut ke lokasi toilet."
+                },
+                {
+                    "question_id": "183d8d03-831d-4ab7-bcba-6cf20a228522",
+                    "answer_id": "d",
+                    "answer_value": "Meminta agar bapak tersebut mendatangi petugas pemberi informasi di bagian lobi kantor."
+                },
+                {
+                    "question_id": "183d8d03-831d-4ab7-bcba-6cf20a228522",
+                    "answer_id": "e",
+                    "answer_value": "Meminta rekannya untuk menunjukkan arah toilet ke bapak tersebut."
+                }
+            ]
+        },
+        {
+            "question_id": "7b4ea8d7-da38-4438-b71a-273cd94a8be4",
+            "question_value": "Ada seorang pasien di klinik tempat Ratri melakukan praktik. Pada saat diperiksa, pasien mengatakan bahwa ia sebenarnya langganan dokter Edi, kolega Ratri. Karena dokter Edi keluar kota, sementara ia berobat kepada Ratri. Padahal mereka telah bersepakat tidak akan saling mengambill alih langganan. Tindakan Ratri kepada pasien sebaiknya...",
+            "question_type": "TKP",
+            "answers": [
+                {
+                    "question_id": "7b4ea8d7-da38-4438-b71a-273cd94a8be4",
+                    "answer_id": "a",
+                    "answer_value": "Memberikan saran tindak lanjut, meskipun pasien meneruskan pengobatan ke tempat lain."
+                },
+                {
+                    "question_id": "7b4ea8d7-da38-4438-b71a-273cd94a8be4",
+                    "answer_id": "b",
+                    "answer_value": "Menghubungi Dokter Edi dan menginformasikan bahwa ada langganannya yang harus ditangani."
+                },
+                {
+                    "question_id": "7b4ea8d7-da38-4438-b71a-273cd94a8be4",
+                    "answer_id": "c",
+                    "answer_value": "Memprioritaskan pasien yang sudah menjadi langganannya."
+                },
+                {
+                    "question_id": "7b4ea8d7-da38-4438-b71a-273cd94a8be4",
+                    "answer_id": "d",
+                    "answer_value": "Memberikan penanganan seperlunya karena telah membuat kesepakatan."
+                },
+                {
+                    "question_id": "7b4ea8d7-da38-4438-b71a-273cd94a8be4",
+                    "answer_id": "e",
+                    "answer_value": "Mengingat dampak yang ditimbulkan, penangan diberikan dengan hati-hati dan sejelas-jelasnya."
+                }
+            ]
+        },
+        {
+            "question_id": "113f52d5-7504-4822-bdbf-f2beed66c6fe",
+            "question_value": "Caca bekerja sebagai petugas kebersihan ruangan suatu hotel. Seorang tamu menegurnya karena handuk yang digunakan saat mandi berbau tidak enak padahal sudah dicuci oleh binatu. Apa yang sebaiknya dilakukan Caca?",
+            "question_type": "TKP",
+            "answers": [
+                {
+                    "question_id": "113f52d5-7504-4822-bdbf-f2beed66c6fe",
+                    "answer_id": "a",
+                    "answer_value": "Segera melaporkan keluhan tersebut kepada atasan agar mengecek kembali kebersihan handuk."
+                },
+                {
+                    "question_id": "113f52d5-7504-4822-bdbf-f2beed66c6fe",
+                    "answer_id": "b",
+                    "answer_value": "Meminta maaf atas ketidaknyamanan yang dialami dan akan segera menindaklanjuti."
+                },
+                {
+                    "question_id": "113f52d5-7504-4822-bdbf-f2beed66c6fe",
+                    "answer_id": "c",
+                    "answer_value": "Mendengarkan tegurannya dengan seksama sambil tersenyum."
+                },
+                {
+                    "question_id": "113f52d5-7504-4822-bdbf-f2beed66c6fe",
+                    "answer_id": "d",
+                    "answer_value": "Menawarkan untuk mengganti dengan handuk baru dan wangi."
+                },
+                {
+                    "question_id": "113f52d5-7504-4822-bdbf-f2beed66c6fe",
+                    "answer_id": "e",
+                    "answer_value": "Mendengarkan tegurannya lalu mendiamkannya karena merasa bukan tanggung jawabnya."
+                }
+            ]
+        },
+        {
+            "question_id": "bc5af996-951a-4958-aec0-3a63de824a69",
+            "question_value": "Tiana diharuskan mengikuti lomba yang akan diadakan fakultas, tetapi Tiana tidak bisa memenuhi permintaan tersebut karena bertepatan dengan rapat tahunan mahasiswa. Apa yang sebaiknya Tiana lakukan ?",
+            "question_type": "TKP",
+            "answers": [
+                {
+                    "question_id": "bc5af996-951a-4958-aec0-3a63de824a69",
+                    "answer_id": "a",
+                    "answer_value": "Memindahkan waktu rapat setelah perlombaan selesai."
+                },
+                {
+                    "question_id": "bc5af996-951a-4958-aec0-3a63de824a69",
+                    "answer_id": "b",
+                    "answer_value": "Mengatakan akan mengikuti lomba ilmiah jika rapat sudah selesai."
+                },
+                {
+                    "question_id": "bc5af996-951a-4958-aec0-3a63de824a69",
+                    "answer_id": "c",
+                    "answer_value": "Menjelaskan dengan baik bahwa waktu lomba bersamaan dengan rapat."
+                },
+                {
+                    "question_id": "bc5af996-951a-4958-aec0-3a63de824a69",
+                    "answer_id": "d",
+                    "answer_value": "Mengikuti lomba ilmiah demi kepentingan kampus terlebih dahulu baru mengikuti rapat tahunan."
+                },
+                {
+                    "question_id": "bc5af996-951a-4958-aec0-3a63de824a69",
+                    "answer_id": "e",
+                    "answer_value": "Menegaskan bahwa tidak bisa mengikuti lomba karena bertepatan dengan rapat tahunan."
+                }
+            ]
+        },
+        {
+            "question_id": "3e010ce4-46fc-414d-a590-aa2e4fba1d0b",
+            "question_value": "Tetangga Bagas mengetahui bahwa ia bekerja di perusahaan listrik, sehingga mereka selalu memprotesnya saat listrik padam. Padahal tugas Bagas tidak berhubungan langsung dengan listrik, bahkan listrik rumah Bagas juga sebenarnya ikut padam. Bagaimana sebaiknya Bagas menanggapi tetangganya ?",
+            "question_type": "TKP",
+            "answers": [
+                {
+                    "question_id": "3e010ce4-46fc-414d-a590-aa2e4fba1d0b",
+                    "answer_id": "a",
+                    "answer_value": "Mengatakan bahwa pekerjaannya tidak ada hubungannya dengan padamnya listrik."
+                },
+                {
+                    "question_id": "3e010ce4-46fc-414d-a590-aa2e4fba1d0b",
+                    "answer_id": "b",
+                    "answer_value": "Menghubungi bagian pelayanan pelanggan agar segera menindaklanjuti kondisi tersebut."
+                },
+                {
+                    "question_id": "3e010ce4-46fc-414d-a590-aa2e4fba1d0b",
+                    "answer_id": "c",
+                    "answer_value": "Meminta menunggu karena pasti ada teknisi yang akan memperbaiki kondisi tersebut."
+                },
+                {
+                    "question_id": "3e010ce4-46fc-414d-a590-aa2e4fba1d0b",
+                    "answer_id": "d",
+                    "answer_value": "Mencari tahu penyebabnya, sehingga dapat membantu perusahaan untuk mencegah kejadian serupa."
+                },
+                {
+                    "question_id": "3e010ce4-46fc-414d-a590-aa2e4fba1d0b",
+                    "answer_id": "e",
+                    "answer_value": "Meminta maaf atas kondisi tersebut dan menampung protes tetangga untuk disampaikan ke perusahaan."
+                }
+            ]
+        },
+        {
+            "question_id": "6441c40d-7ffb-4f30-8836-67123e925d10",
+            "question_value": "Sebagai ketua acara kemahasiswaan, seorang dosen memberikan teguran keras kepada Riana karena hiburan di acara tersebut dianggap kurang sesuai dengan nilai budaya Indonesia. Teguran tersebut diberikan di depan umum sehingga banyak orang yang melihat. Apa yang perlu dilakukan Riana ?",
+            "question_type": "TKP",
+            "answers": [
+                {
+                    "question_id": "6441c40d-7ffb-4f30-8836-67123e925d10",
+                    "answer_id": "a",
+                    "answer_value": "Menyakinkan dosen bahwa ia dapat mempertangungjawabkan dan memperbaiki acaraa tersebut."
+                },
+                {
+                    "question_id": "6441c40d-7ffb-4f30-8836-67123e925d10",
+                    "answer_id": "b",
+                    "answer_value": "Meminta maaf dan menjanjikan akan mencatat masukan tersebut sebagai evaluasi."
+                },
+                {
+                    "question_id": "6441c40d-7ffb-4f30-8836-67123e925d10",
+                    "answer_id": "c",
+                    "answer_value": "Meminta agar bisa membicarkan hal tersebut ditempat lain yang lebih tenang."
+                },
+                {
+                    "question_id": "6441c40d-7ffb-4f30-8836-67123e925d10",
+                    "answer_id": "d",
+                    "answer_value": "Diam dan menerima teguran yang diberikan kepadanya."
+                },
+                {
+                    "question_id": "6441c40d-7ffb-4f30-8836-67123e925d10",
+                    "answer_id": "e",
+                    "answer_value": "Menyangkal teguran dosen karena dipermalukan di depan banyak orang."
+                }
+            ]
+        },
+        {
+            "question_id": "9d2cb26c-ef34-4fb7-81a5-5a87e8a80c99",
+            "question_value": "Setelah seorang penyewa kostum meninggalkan tempat, Anggi yang pada saat itu bertugas baru tahu bahwa baju yang dikembalikan dalam keadaan rusak. Persewaan tersebut punya aturan bahwa petugas yang lengah harus mengganti kerugiannya. Padahal Anggi sedang kesulitan keuangan. Apa tindakan yang sebaiknya dilakukan Anggi?",
+            "question_type": "TKP",
+            "answers": [
+                {
+                    "question_id": "9d2cb26c-ef34-4fb7-81a5-5a87e8a80c99",
+                    "answer_id": "a",
+                    "answer_value": "Menuntut penyewa untuk bertanggungjawab dan membayar biaya perbaikan kerusakan."
+                },
+                {
+                    "question_id": "9d2cb26c-ef34-4fb7-81a5-5a87e8a80c99",
+                    "answer_id": "b",
+                    "answer_value": "Menjelaskan kepada penyewa bahwa Anggi harus menanggung kerugian dengan uang pribadinya."
+                },
+                {
+                    "question_id": "9d2cb26c-ef34-4fb7-81a5-5a87e8a80c99",
+                    "answer_id": "c",
+                    "answer_value": "Menjelaskan kronologi peristiwa kepada atasan dan memohon pemakluman."
+                },
+                {
+                    "question_id": "9d2cb26c-ef34-4fb7-81a5-5a87e8a80c99",
+                    "answer_id": "d",
+                    "answer_value": "Menawarkan kemungkinan alternatif solusi kepada penyewa agar kerugian yang ia tanggung tidak terlalu besar."
+                },
+                {
+                    "question_id": "9d2cb26c-ef34-4fb7-81a5-5a87e8a80c99",
+                    "answer_id": "e",
+                    "answer_value": "Meminta maaf atas kekurang jeliannya dalam mengecek baju yang dikembalikan dan berharap penyewa mengerti."
+                }
+            ]
+        },
+        {
+            "question_id": "e263c5bb-6775-4be0-982d-7e7aa2d88f87",
+            "question_value": "Ketika Arya sedang terburu-buru menyelesaikan laporan. Seorang rekannya memina tolong untuk diantar ke dokter karena sakit lambung sehingga tidak bisa berjalan. Apa yang sebaiknya dilakukan Arya?",
+            "question_type": "TKP",
+            "answers": [
+                {
+                    "question_id": "e263c5bb-6775-4be0-982d-7e7aa2d88f87",
+                    "answer_id": "a",
+                    "answer_value": "Minta maaf karena sedang sibuk sehingga tidak bisa mengantar ke dokter."
+                },
+                {
+                    "question_id": "e263c5bb-6775-4be0-982d-7e7aa2d88f87",
+                    "answer_id": "b",
+                    "answer_value": "Mencarikan orang yang bisa membantu mengantarkan rekannya ke dokter terdekat."
+                },
+                {
+                    "question_id": "e263c5bb-6775-4be0-982d-7e7aa2d88f87",
+                    "answer_id": "c",
+                    "answer_value": "Meminta kepada atasan untuk menunda pengumpulan tugas karena ada situasi mendesak dengan kerja."
+                },
+                {
+                    "question_id": "e263c5bb-6775-4be0-982d-7e7aa2d88f87",
+                    "answer_id": "d",
+                    "answer_value": "Meminta rekannya untuk menunggu sebentar dengan suara keras."
+                },
+                {
+                    "question_id": "e263c5bb-6775-4be0-982d-7e7aa2d88f87",
+                    "answer_id": "e",
+                    "answer_value": "Mencari cara tercepat untuk bisa segera mengantarkan rekan tersebut ke dokter sambil menghubungi rumah sakit."
+                }
+            ]
+        },
+        {
+            "question_id": "db352386-c40a-4922-958d-239fe743887d",
+            "question_value": "Sinta memiliki keahlian menata dan mendekorasi ruang untuk kegiatan pesta. Teman-temannya yang menjadi panitia PENSI di sekolah kesulitan mendekorasi ruangan. Mereka ingin menyewa ahli dekor, tetapi biayanya tidak cukup. Sinta sendiri tidak tergabung dalam kepanitiaan. Apa yang sebaiknya dilakukan Sinta?",
+            "question_type": "TKP",
+            "answers": [
+                {
+                    "question_id": "db352386-c40a-4922-958d-239fe743887d",
+                    "answer_id": "a",
+                    "answer_value": "Meminjamkan buku tentang teknik dekorasi agar dipelajari sendiri oleh panitia."
+                },
+                {
+                    "question_id": "db352386-c40a-4922-958d-239fe743887d",
+                    "answer_id": "b",
+                    "answer_value": "Membantu panitia mendekorasi ruangan sampai ruangan siap digunakan."
+                },
+                {
+                    "question_id": "db352386-c40a-4922-958d-239fe743887d",
+                    "answer_id": "c",
+                    "answer_value": "Membantu mendekorasi ruangan karena guru pasti akan bangga dengan dirinya."
+                },
+                {
+                    "question_id": "db352386-c40a-4922-958d-239fe743887d",
+                    "answer_id": "d",
+                    "answer_value": "Membantu panitia untuk mendekorasi ruangan karena diperintahkan oleh guru."
+                },
+                {
+                    "question_id": "db352386-c40a-4922-958d-239fe743887d",
+                    "answer_id": "e",
+                    "answer_value": "Mengajak teman-teman lain untuk membantu mendekorasi ruangan."
+                }
+            ]
+        },
+        {
+            "question_id": "0c492e7e-c32e-48eb-9a95-e988436e90d5",
+            "question_value": "Dea membaca informasi lomba menulis di surat kabar. Sahabatnya yang benama Lintang juga memiliki hobi menulis. Akan tetapi, jika sahabatnya mengirimkan naskah tulisan, hal itu akan memperkecil kesempatannya untuk menang karena sahabatnya lebih baik dalam hal menulis. Dea sebaiknya…",
+            "question_type": "TKP",
+            "answers": [
+                {
+                    "question_id": "0c492e7e-c32e-48eb-9a95-e988436e90d5",
+                    "answer_id": "a",
+                    "answer_value": "Hanya akan memberikan informasi ketika sahabatnya menanyakannya."
+                },
+                {
+                    "question_id": "0c492e7e-c32e-48eb-9a95-e988436e90d5",
+                    "answer_id": "b",
+                    "answer_value": "Mengajak Lintang untuk mengirimkan naskah dan bertukar tulisan untuk mengevaluasi kelemahan dalam penulisan."
+                },
+                {
+                    "question_id": "0c492e7e-c32e-48eb-9a95-e988436e90d5",
+                    "answer_id": "c",
+                    "answer_value": "Memberikan informasi mengenai lomba agar sahabatnya juga dapat mengikutinya."
+                },
+                {
+                    "question_id": "0c492e7e-c32e-48eb-9a95-e988436e90d5",
+                    "answer_id": "d",
+                    "answer_value": "Menyimpan informasi tersebut agar ia memiliki peluang menang lebih tinggi."
+                },
+                {
+                    "question_id": "0c492e7e-c32e-48eb-9a95-e988436e90d5",
+                    "answer_id": "e",
+                    "answer_value": "Meminta Lintang untuk mencari informasi yang lebih lengkap mengenai lomba di surat kabar yang ia tunjukkan."
+                }
+            ]
+        },
+        {
+            "question_id": "570a7eb2-4dd6-40af-b635-760cf1801c85",
+            "question_value": "Andi mendapatkan tugas untuk menjadi ketua dalam acara panggung gembira di kampungnya. Dia membutuhkan berbagai perlengkapan dengan biaya yang besar. Sementara itu, dana yang dimiliki tidak mencukupi. Oleh karena itu, sebaiknya Andi…",
+            "question_type": "TKP",
+            "answers": [
+                {
+                    "question_id": "570a7eb2-4dd6-40af-b635-760cf1801c85",
+                    "answer_id": "a",
+                    "answer_value": "Berusaha secara mandiri menyelesaikan tugas sebaik mungkin dan tidak perlu meminta pertimbangan warga lainnya."
+                },
+                {
+                    "question_id": "570a7eb2-4dd6-40af-b635-760cf1801c85",
+                    "answer_id": "b",
+                    "answer_value": "Melaksanakan tugas dengan membelanjakan dana seadanya tanpa banyak bertanya."
+                },
+                {
+                    "question_id": "570a7eb2-4dd6-40af-b635-760cf1801c85",
+                    "answer_id": "c",
+                    "answer_value": "Merencanakan pertemuan dengan warga jika tidak menemukan solusi mengenai pendanaan acara."
+                },
+                {
+                    "question_id": "570a7eb2-4dd6-40af-b635-760cf1801c85",
+                    "answer_id": "d",
+                    "answer_value": "Membangun dialog dengan warga secara intensif untuk mendapatkan cara menambah dana."
+                },
+                {
+                    "question_id": "570a7eb2-4dd6-40af-b635-760cf1801c85",
+                    "answer_id": "e",
+                    "answer_value": "Menceritakan permasalahan kekurangan dana kepada warga agar warga mengerti kesulitannya."
+                }
+            ]
+        },
+        {
+            "question_id": "bd31d1ee-2073-4287-9619-311dec05fd31",
+            "question_value": "Pada saat pemilihan, Pak Sabar terpilih menjadi ketua RT. Pak Sabar ingin menolak karena dia sangat sibuk dengan pekerjaan di kantornya, tetapi warga tetap menghendaki Pak Sabar menjadi ketua RT. Menghadapi situasi tersebut, Pak Sabar sebaiknya…",
+            "question_type": "TKP",
+            "answers": [
+                {
+                    "question_id": "bd31d1ee-2073-4287-9619-311dec05fd31",
+                    "answer_id": "a",
+                    "answer_value": "Berpikir bahwa para tetangga telah memaksakan kehendak kepada Pak Sabar untuk menjadi ketua RT."
+                },
+                {
+                    "question_id": "bd31d1ee-2073-4287-9619-311dec05fd31",
+                    "answer_id": "b",
+                    "answer_value": "Menunjukkan sikap yang tidak bersahabat kepada para tetangga yang telah memilihnya menjadi ketua RT."
+                },
+                {
+                    "question_id": "bd31d1ee-2073-4287-9619-311dec05fd31",
+                    "answer_id": "c",
+                    "answer_value": "Memberikan alasan kesibukan dalam pekerjaan untuk membatalkan putusan warga memilihnya menjadi ketua RT."
+                },
+                {
+                    "question_id": "bd31d1ee-2073-4287-9619-311dec05fd31",
+                    "answer_id": "d",
+                    "answer_value": "Meyakiknkan diri untuk menjalankan dengan sebaik-baiknya hasil putusan pemilihan ketua RT yang telah disepakati warga."
+                },
+                {
+                    "question_id": "bd31d1ee-2073-4287-9619-311dec05fd31",
+                    "answer_id": "e",
+                    "answer_value": "Menerima proses demokrasi yang ada dan aktif meyakinkan warga bahwa mereka bisa mencapai tujuan bersama."
+                }
+            ]
+        },
+        {
+        "question_id": "0c135741-2beb-41c1-bdfc-c1f041b74a0c",
+        "question_value": "Rian bercita-cita menjadi musisi profesional. Orang tua Rian mendukung anaknya dengan membelikan alat musik dan menyediakan studio untuk latihan . Walaupun demikian, Rian tetap merasa kesulitan mengembangkan bakat karena selama ini ia berlatih musik sendirian. Sebaiknya Rian…",
+        "question_type": "TKP",
+        "answers": [
+            {
+                "question_id": "0c135741-2beb-41c1-bdfc-c1f041b74a0c",
+                "answer_id": "a",
+                "answer_value": "Terbuka pada ajakan orang lain jika ada yang mengajaknya berlatih bersama."
+            },
+            {
+                "question_id": "0c135741-2beb-41c1-bdfc-c1f041b74a0c",
+                "answer_id": "b",
+                "answer_value": "Menawari teman dan tetangganya untuk berlatih musik di studio yang ia miliki."
+            },
+            {
+                "question_id": "0c135741-2beb-41c1-bdfc-c1f041b74a0c",
+                "answer_id": "c",
+                "answer_value": "Mengundang teman-temannya untuk berlatih bersama dengan imbalan tertentu."
+            },
+            {
+                "question_id": "0c135741-2beb-41c1-bdfc-c1f041b74a0c",
+                "answer_id": "d",
+                "answer_value": "Mencari alternatif cara yang bisa dilakukan untuk mengembangkan kemampuannya bermain musik."
+            },
+            {
+                "question_id": "0c135741-2beb-41c1-bdfc-c1f041b74a0c",
+                "answer_id": "e",
+                "answer_value": "Membentuk grup band yang secara rutin berlatih untuk mengembangkan bakat bermusik yang dimiliki."
+            }
+        ]
+    },
+    {
+        "question_id": "beda9ddc-ce49-4c91-b104-5368b85c43e6",
+        "question_value": "Perayaan ulang tahun sekolah Edo direncanakan meriah dengan mengundang artis ibu kota. Namun, keterbatasan dana menjadi hambatan yang tidak bisa dihindari . Sebagai ketua panitia perayaan ulang tahun sekolah, Edo sebaiknya …",
+        "question_type": "TKP",
+        "answers": [
+            {
+                "question_id": "beda9ddc-ce49-4c91-b104-5368b85c43e6",
+                "answer_id": "a",
+                "answer_value": "Menjalankan tugasnya dengan mencari tambahan dana semaksimal mungkin walaupun tidak dibantu oleh para anggotanya."
+            },
+            {
+                "question_id": "beda9ddc-ce49-4c91-b104-5368b85c43e6",
+                "answer_id": "b",
+                "answer_value": "Aktif membangun kerja sama dengan pihak-pihak yang selama ini belum pernah dilibatkan dalam penggalangan dana."
+            },
+            {
+                "question_id": "beda9ddc-ce49-4c91-b104-5368b85c43e6",
+                "answer_id": "c",
+                "answer_value": "Menerima tawaran bantuan bila ada pihak yang menawarkan bantuan untuk pelaksanaan perayaan ulang tahun sekolah."
+            },
+            {
+                "question_id": "beda9ddc-ce49-4c91-b104-5368b85c43e6",
+                "answer_id": "d",
+                "answer_value": "Menggerakkan semua panitia dalam menggalang dana dari para donator, baik donator yang lama maupun yang baru."
+            },
+            {
+                "question_id": "beda9ddc-ce49-4c91-b104-5368b85c43e6",
+                "answer_id": "e",
+                "answer_value": "Aktif menghubungi donatur-donatur yang sebelumnya berperan serta dalam setiap kegiatan sekolah diadakan."
+            }
+        ]
+    },
+    {
+        "question_id": "bbdf124d-f4cd-42e7-b3cf-4936b414dfeb",
+        "question_value": "Sekolah Farhan akan mengadakan acara perkemahan di lokasi yang telah diputuskan dalam rapat guru. Farhan merasa tidak nyaman dengan lokasi tersebut. Untuk menghadapi hal itu, sebaiknya Farhan berpikir bahwa…",
+        "question_type": "TKP",
+        "answers": [
+            {
+                "question_id": "bbdf124d-f4cd-42e7-b3cf-4936b414dfeb",
+                "answer_id": "a",
+                "answer_value": "Menyetujui lokasi hasil keputusan rapat mungkin akan lebih baik baginya."
+            },
+            {
+                "question_id": "bbdf124d-f4cd-42e7-b3cf-4936b414dfeb",
+                "answer_id": "b",
+                "answer_value": "Acara kemah bisa dilaksanakan untuk kebersamaan walaupun kurang nyaman dengan lokasi yang telah ditetapkan."
+            },
+            {
+                "question_id": "bbdf124d-f4cd-42e7-b3cf-4936b414dfeb",
+                "answer_id": "c",
+                "answer_value": "Perkemahan bisa dilaksanakan jika diadakan rapat dengar pendapat antara guru dan murid tentang penentuan lokasi."
+            },
+            {
+                "question_id": "bbdf124d-f4cd-42e7-b3cf-4936b414dfeb",
+                "answer_id": "d",
+                "answer_value": "Dia tidak perlu berpartisipasi dalam kegiatan perkemahan karena memang tidak wajib."
+            },
+            {
+                "question_id": "bbdf124d-f4cd-42e7-b3cf-4936b414dfeb",
+                "answer_id": "e",
+                "answer_value": "Keikutsertaan semua pihak menjadi faktor utama untuk membangun kebersamaan."
+            }
+        ]
+    },
+    {
+        "question_id": "5d1049dc-89c4-4939-ae59-e0e85462f17f",
+        "question_value": "Antik mengikuti kompetisi hibah penulisan buku. Salah satu syarat yang harus dipenuhi adalah menyediakan dua reviewer eksternal. Antik merasa kesulitan mendapatkan reviewer karena salah satu kawan yang telah dihubungi menyatakan tidak sanggup. Langkah yang sebaiknya Antik lakukan adalah…",
+        "question_type": "TKP",
+        "answers": [
+            {
+                "question_id": "5d1049dc-89c4-4939-ae59-e0e85462f17f",
+                "answer_id": "a",
+                "answer_value": "Menghubungi rekan yang lain yang mungkin bisa membantu setelah ada surat teguran dari penyandang dana hibah."
+            },
+            {
+                "question_id": "5d1049dc-89c4-4939-ae59-e0e85462f17f",
+                "answer_id": "b",
+                "answer_value": "Mengundurkan diri dari kompetisi hibah penulisan buku daripada kesulitan saat mengerjakan."
+            },
+            {
+                "question_id": "5d1049dc-89c4-4939-ae59-e0e85462f17f",
+                "answer_id": "c",
+                "answer_value": "Bercerita pada kawan lain tentang kesulitannya tanpa mengharapkan bantuan untuk mendapatkan reviewer."
+            },
+            {
+                "question_id": "5d1049dc-89c4-4939-ae59-e0e85462f17f",
+                "answer_id": "d",
+                "answer_value": "Menghubungi rekan dan meminta kesediaannya menjadi reviewer."
+            },
+            {
+                "question_id": "5d1049dc-89c4-4939-ae59-e0e85462f17f",
+                "answer_id": "e",
+                "answer_value": "Ketika mendekati tenggat (deadline), ia akan meminta rekannya untuk membantu mencari reviewer."
+            }
+        ]
+    },
+    {
+        "question_id": "fb72daed-3270-468d-997f-43a9585c866a",
+        "question_value": "Derry menyadari bahwa ia mudah lupa. Ia seringkali melewatkan jadwal kegiatan rapat organisasi. Ia disarankan untuk menggunakan aplikasi pengingat di telepon genggamnya. Sikap Derry adalah…",
+        "question_type": "TKP",
+        "answers": [
+            {
+                "question_id": "fb72daed-3270-468d-997f-43a9585c866a",
+                "answer_id": "a",
+                "answer_value": "Mulai mencoba menggunakan aplikasi pengingat ketika ia merasa kegiatannya sedang sangat padat."
+            },
+            {
+                "question_id": "fb72daed-3270-468d-997f-43a9585c866a",
+                "answer_id": "b",
+                "answer_value": "Menggunakan aplikasi pengingat untuk membantunya mengatur waktu dalam mengikuti kegiatan organisasi."
+            },
+            {
+                "question_id": "fb72daed-3270-468d-997f-43a9585c866a",
+                "answer_id": "c",
+                "answer_value": "Menggali pemanfaatan aplikasi pengingat untuk membantu mengatur kegiatan seluruh tim di organisasinya."
+            },
+            {
+                "question_id": "fb72daed-3270-468d-997f-43a9585c866a",
+                "answer_id": "d",
+                "answer_value": "Merasa lebih nyaman untuk mulai merapikan catatan kegiatan hariannya di buku agenda mingguan."
+            },
+            {
+                "question_id": "fb72daed-3270-468d-997f-43a9585c866a",
+                "answer_id": "e",
+                "answer_value": "Menggunakan fitur-fitur pada aplikasi pengingat agar ia dapat merinci setiap kegiatannya dengan lebih baik."
+            }
+        ]
+    },
+    {
+        "question_id": "a10a2504-941b-4fee-b12d-e403e570ffb3",
+        "question_value": "Siska adalah seorang ibu rumah tangga. Dalam kesehariannya, banyak keperluan rumah tangga yang menuntut ia bertransaksi di bank. Petugas bank menyarankan Siska menggunakan aplikasi perbankan berbasis daring. Namun, Siska tidak terbiasa. Sikap Siska ialah…",
+        "question_type": "TKP",
+        "answers": [
+            {
+                "question_id": "a10a2504-941b-4fee-b12d-e403e570ffb3",
+                "answer_id": "a",
+                "answer_value": "Mempelajari penggunaan aplikasi perbankan berbasis daring untuk memudahkannya dalam bertransaksi kebutuhan sehari-hari."
+            },
+            {
+                "question_id": "a10a2504-941b-4fee-b12d-e403e570ffb3",
+                "answer_id": "b",
+                "answer_value": "Menunda memasang aplikasi perbankan berbasis daring di ponselnya sampai ia yakin ia bisa menggunakannya."
+            },
+            {
+                "question_id": "a10a2504-941b-4fee-b12d-e403e570ffb3",
+                "answer_id": "c",
+                "answer_value": "Mencari tahu tentang berbagai aplikasi perbankan berbasis daring yang bisa ia manfaatkan untuk memenuhi kebutuhan sehari-hari."
+            },
+            {
+                "question_id": "a10a2504-941b-4fee-b12d-e403e570ffb3",
+                "answer_id": "d",
+                "answer_value": "Mencoba cari tahu tentang manfaat menggunakan aplikasi perbankan berbasis daring atas saran suaminya."
+            },
+            {
+                "question_id": "a10a2504-941b-4fee-b12d-e403e570ffb3",
+                "answer_id": "e",
+                "answer_value": "Mencoba memasang aplikasi perbankan berbasis daring diponselnya sesuai dengan saran petugas bank yang sedang berpameran di mal."
+            }
+        ]
+    },
+    {
+        "question_id": "bb93ed03-a693-4b22-ac98-3f611c721ff7",
+        "question_value": "Di sekolah Friska mulai diajarkan cara membuat video blog untuk mata pelajaran seni drama. Video blog itu untuk menyebarluaskan kreasi para siswa. Friska terkendala karena belum memiliki kamera yang memadai untuk membuat video blog. Sikap Friska yaitu…",
+        "question_type": "TKP",
+        "answers": [
+            {
+                "question_id": "bb93ed03-a693-4b22-ac98-3f611c721ff7",
+                "answer_id": "a",
+                "answer_value": "Meyakini bahwa dengan video blog akan memudahkan dirinya untuk mempromosikan hasil kreasinya."
+            },
+            {
+                "question_id": "bb93ed03-a693-4b22-ac98-3f611c721ff7",
+                "answer_id": "b",
+                "answer_value": "Merasa bahwa membuat video blog mengharuskannya mengeluarkan banyak biaya untuk membeli kamera."
+            },
+            {
+                "question_id": "bb93ed03-a693-4b22-ac98-3f611c721ff7",
+                "answer_id": "c",
+                "answer_value": "Menyetujui bahwa melalui video blog akan meningkatkan motivasi dan ide rekan-rekan di kelas untuk berkreasi."
+            },
+            {
+                "question_id": "bb93ed03-a693-4b22-ac98-3f611c721ff7",
+                "answer_id": "d",
+                "answer_value": "Merasa antusias karena reputasi sekolah dalam hal seni drama akan semakin meningkat karena publikasi daring."
+            },
+            {
+                "question_id": "bb93ed03-a693-4b22-ac98-3f611c721ff7",
+                "answer_id": "e",
+                "answer_value": "Menganggap media publikasi hasil kreasi siswa masih dapat dilakukan dengan pemberitaan di media cetak."
+            }
+        ]
+    },
+    {
+        "question_id": "3ed989b5-f154-4312-bdb5-93312d9ec35e",
+        "question_value": "Seorang guru mengenalkan program berbasis daring pembelajaran jarak jauh yang pertemuan belajar-mengajarnya tidak harus selalu di kelas. Penggunaan program ini memerlukan ketelitian agar tugas yang dikirimkan tidak tertukar. Randi sebagai ketua kelas sebaiknya…",
+        "question_type": "TKP",
+        "answers": [
+            {
+                "question_id": "3ed989b5-f154-4312-bdb5-93312d9ec35e",
+                "answer_id": "a",
+                "answer_value": "Meminta kepada guru tersebut untuk diajari lebih lanjut mengenai program yang dapat diterapkan untuk semua mata pelajaran."
+            },
+            {
+                "question_id": "3ed989b5-f154-4312-bdb5-93312d9ec35e",
+                "answer_id": "b",
+                "answer_value": "Bertanya kepada satu guru mengenai cara penggunaan program agar bisa dimanfaatkan untuk menyelesaikan tugas kelompoknya."
+            },
+            {
+                "question_id": "3ed989b5-f154-4312-bdb5-93312d9ec35e",
+                "answer_id": "c",
+                "answer_value": "Mempelajari program tersebut setelah teman-teman yang lain sudah memahaminya dan apabila dirasa memerlukan program tersebut."
+            },
+            {
+                "question_id": "3ed989b5-f154-4312-bdb5-93312d9ec35e",
+                "answer_id": "d",
+                "answer_value": "Membaca tutorial penggunaan program tersebut agar dapat memudahkan penyelesaian tugas- tugas sekolahnya."
+            },
+            {
+                "question_id": "3ed989b5-f154-4312-bdb5-93312d9ec35e",
+                "answer_id": "e",
+                "answer_value": "Mempelajari program tersebut hanya pada beberapa mata pelajaran yang memang memerlukan kecanggihan teknologi."
+            }
+        ]
+    },
+    {
+        "question_id": "3ca8f28b-d35c-49d0-bb3f-b476330584b9",
+        "question_value": "Untuk mendapat menarik investor, Gaby sebagai sekretaris pimpinan perusahaan diminta untuk membuat presentasi program terbaru. Namun program tersebut memiliki lebih banyak fitur dan berbeda dengan program presentasi sebelumnya . sikap gaby ialah….",
+        "question_type": "TKP",
+        "answers": [
+            {
+                "question_id": "3ca8f28b-d35c-49d0-bb3f-b476330584b9",
+                "answer_id": "a",
+                "answer_value": "Mempelajari program presentasi tersebut agar dapat membantu rekan-rekan kerja membuat presentasi kepada investor."
+            },
+            {
+                "question_id": "3ca8f28b-d35c-49d0-bb3f-b476330584b9",
+                "answer_id": "b",
+                "answer_value": "Meminta staff TI membuatkan presentasi dengan program presentasi tersebut menggunakan materi yang ada."
+            },
+            {
+                "question_id": "3ca8f28b-d35c-49d0-bb3f-b476330584b9",
+                "answer_id": "c",
+                "answer_value": "Menguasai program presentasi tersebut agar dapat menggunakannya pada kegiatan yang lain di tempat pimpinan melakukan presentasi."
+            },
+            {
+                "question_id": "3ca8f28b-d35c-49d0-bb3f-b476330584b9",
+                "answer_id": "d",
+                "answer_value": "Mencari tahu cara menggunakan program presentasi terbaru agar dapat menyelesaikan tugas sesuai dengan yang diminta."
+            },
+            {
+                "question_id": "3ca8f28b-d35c-49d0-bb3f-b476330584b9",
+                "answer_id": "e",
+                "answer_value": "Untuk saat ini tetap menggunakan program presentasi yang sudah dikuasainya untuk menampilkan materi presentasi yang diminta."
+            }
+        ]
+    },
+    {
+        "question_id": "d19050f2-129b-46ce-bf60-49e5a2e0fe41",
+        "question_value": "Perusahaan tempat Rodi bekerja adalah wilayah rawan gempa. Bulan ini baru saja terjadi gempa sehingga pimpinan menugasi Rodi untuk mencari teknologi deteksi dini gempa. Disisi lain, Rodi masih memiliki banyak tugas yang belum diselesaikannya. Sikap Rodi adalah…",
+        "question_type": "TKP",
+        "answers": [
+            {
+                "question_id": "d19050f2-129b-46ce-bf60-49e5a2e0fe41",
+                "answer_id": "a",
+                "answer_value": "Mencari informasi tentang teknologi deteksi dini dengan mengacu pada berbagai perusahaan yang sudah menerapkannya."
+            },
+            {
+                "question_id": "d19050f2-129b-46ce-bf60-49e5a2e0fe41",
+                "answer_id": "b",
+                "answer_value": "Mulai mencari informasi-informasi tentang teknologi deteksi dini yang menarik minatnya di internet."
+            },
+            {
+                "question_id": "d19050f2-129b-46ce-bf60-49e5a2e0fe41",
+                "answer_id": "c",
+                "answer_value": "Mulai mencari informasi tentang teknologi deteksi dini karena menurut rekan-rekannya teknologi tersebut diperlukan perusahaan."
+            },
+            {
+                "question_id": "d19050f2-129b-46ce-bf60-49e5a2e0fe41",
+                "answer_id": "d",
+                "answer_value": "Mulai mencari informasi tentang teknologi deteksi dini agar kinerjanya dapat dinilai baik oleh pimpinan perusahaan."
+            },
+            {
+                "question_id": "d19050f2-129b-46ce-bf60-49e5a2e0fe41",
+                "answer_id": "e",
+                "answer_value": "Mulai mencari cara untuk mengantisipasi gempa tanpa perlu memasang teknologi deteksi dini di perusahaannya."
+            }
+        ]
+    },
+    {
+        "question_id": "fe521a06-6abc-4b07-88bd-2f1f24e8d146",
+        "question_value": "Seorang kepala bagian menginstruksikan agar setiap unit kerja di perusahaan memiliki perangkat lunak masing-masing untuk meningkatkan kinerja. Sebagai kepala bagian administrasi. Rihana sebaliknya....",
+        "question_type": "TKP",
+        "answers": [
+            {
+                "question_id": "fe521a06-6abc-4b07-88bd-2f1f24e8d146",
+                "answer_id": "a",
+                "answer_value": "Mempelajari perangkat lunak yang digunakan perusahaan sebagai upaya untuk menyamakan kualitas pekerja."
+            },
+            {
+                "question_id": "fe521a06-6abc-4b07-88bd-2f1f24e8d146",
+                "answer_id": "b",
+                "answer_value": "Menggunakan perangkat lunak tersebut untuk menyelesaikan tugasnya agar agar lebih cepat dan akurat."
+            },
+            {
+                "question_id": "fe521a06-6abc-4b07-88bd-2f1f24e8d146",
+                "answer_id": "c",
+                "answer_value": "Mempelajari cara kerja perangkat lunak di unit kerjanya agar dapat meningkatkan hasil kinerja semua anggota tim."
+            },
+            {
+                "question_id": "fe521a06-6abc-4b07-88bd-2f1f24e8d146",
+                "answer_id": "d",
+                "answer_value": "Berusaha mempelajari dan menggunakan perangkat lunak tersebut walaupun memerlukan waktu yang lebih lama."
+            },
+            {
+                "question_id": "fe521a06-6abc-4b07-88bd-2f1f24e8d146",
+                "answer_id": "e",
+                "answer_value": "Masih tetap menggunakan cara manual dalam menyelesaikan tugas kerjanya sehari-hari."
+            }
+        ]
+    },
+    {
+        "question_id": "b4faf3a9-fb36-4c8b-af08-2ab615e84cf9",
+        "question_value": "Beni sebagai kepala analisis transaksi keuangan merasa kesulitan untuk memantau penggalangan dana yang dilakukan beberapa yayasan melalui akun virtual. Ia juga kesulitan mengidentifikasi tindakan pencucian uang melalui penggalangan dan. Beni sebaiknya....",
+        "question_type": "TKP",
+        "answers": [
+            {
+                "question_id": "b4faf3a9-fb36-4c8b-af08-2ab615e84cf9",
+                "answer_id": "a",
+                "answer_value": "Menugasi beberapa staf untuk mendatangi yayasan yang dimaksud untuk diminta keterangan mengenai penggalangan dana tersebut."
+            },
+            {
+                "question_id": "b4faf3a9-fb36-4c8b-af08-2ab615e84cf9",
+                "answer_id": "b",
+                "answer_value": "Mengandalkan program berbasis daring yang ia miliki untuk melacak aliran dana ke berbagai akun virtual yayasan."
+            },
+            {
+                "question_id": "b4faf3a9-fb36-4c8b-af08-2ab615e84cf9",
+                "answer_id": "c",
+                "answer_value": "Mencari informasi mengenai program atau metode yang dapat digunakan dengan akurat untuk melacak aliran dana tersebut."
+            },
+            {
+                "question_id": "b4faf3a9-fb36-4c8b-af08-2ab615e84cf9",
+                "answer_id": "d",
+                "answer_value": "Bekerja sama dengan Bank Pusat untuk memantau aliran dana di akun virtual yang dimiliki oleh yayasan."
+            },
+            {
+                "question_id": "b4faf3a9-fb36-4c8b-af08-2ab615e84cf9",
+                "answer_id": "e",
+                "answer_value": "Menginstruksikan beberapa staf teknologi informasi untuk mengembangkan metode pelacakan dana di akun virtual."
+            }
+        ]
+    },
+    {
+        "question_id": "ac09f75f-8245-4f96-ab05-0d8bbfc26b0a",
+        "question_value": "Fahrul berasal dari suku tertinggal yang saat ini kuliah di kota besar. Ia ikut himpunan mahasiswa yang anggotanya beragam latar belakang. Ia sering salah memahami instruksi sehingga kinerjanya rendah. Apa yang seharusnya dilakukan Fadli sebagai ketua?",
+        "question_type": "TKP",
+        "answers": [
+            {
+                "question_id": "ac09f75f-8245-4f96-ab05-0d8bbfc26b0a",
+                "answer_id": "a",
+                "answer_value": "Mendiskusikan dengan anggota lain mengenai cara membantu fahrul agar cepat memahami instruksi."
+            },
+            {
+                "question_id": "ac09f75f-8245-4f96-ab05-0d8bbfc26b0a",
+                "answer_id": "b",
+                "answer_value": "Mengumpulkan informasi mengenai budaya Fahrul agar tidak lagi terjadi kesalahan memahami instruksi."
+            },
+            {
+                "question_id": "ac09f75f-8245-4f96-ab05-0d8bbfc26b0a",
+                "answer_id": "c",
+                "answer_value": "Menuntut fahrul untuk berkinerja seperti anggota lain agar tujuan organisasi tercapai."
+            },
+            {
+                "question_id": "ac09f75f-8245-4f96-ab05-0d8bbfc26b0a",
+                "answer_id": "d",
+                "answer_value": "Bertanya kepada salah satu teman yang mengenal Fahrul mengenai budaya Fahrul di daerah."
+            },
+            {
+                "question_id": "ac09f75f-8245-4f96-ab05-0d8bbfc26b0a",
+                "answer_id": "e",
+                "answer_value": "Meminta Fahrul menceritakan budayanya agar menemukan cara tepat untuk menyampaikan instruksi."
+            }
+        ]
+    },
+    {
+        "question_id": "77f5810e-1a55-4e4d-a317-a9391f2f1131",
+        "question_value": "Di kantor tampak ada dominasi karyawan yang berasal dari satu suku tertentu. Salah satu dari rekan kerja memiliki sifat buruk. Ia merupakan salah satu bagian dari suku tersebut. Bagaimana sikap anda?",
+        "question_type": "TKP",
+        "answers": [
+            {
+                "question_id": "77f5810e-1a55-4e4d-a317-a9391f2f1131",
+                "answer_id": "a",
+                "answer_value": "Memahami bahwa sifat buruk seorang karyawan bersifat pribadi yang tidak dipengaruhi oleh faktor suku."
+            },
+            {
+                "question_id": "77f5810e-1a55-4e4d-a317-a9391f2f1131",
+                "answer_id": "b",
+                "answer_value": "Mengingatkan rekan kerja lain untuk bersikap objektif dan menghormati siapapun dari suku apa pun."
+            },
+            {
+                "question_id": "77f5810e-1a55-4e4d-a317-a9391f2f1131",
+                "answer_id": "c",
+                "answer_value": "Menilai bahwa sifat buruk itu hanya dimiliki karyawan itu saja, tidak pada semua karyawan dari suku tersebut."
+            },
+            {
+                "question_id": "77f5810e-1a55-4e4d-a317-a9391f2f1131",
+                "answer_id": "d",
+                "answer_value": "Menjauhi semua karyawan yang berasal dari suku tersebut karena sifat buruk itu hasil dari internalisasi budaya suku."
+            },
+            {
+                "question_id": "77f5810e-1a55-4e4d-a317-a9391f2f1131",
+                "answer_id": "e",
+                "answer_value": "Mencari informasi kekhasan nilai positif dari suku tersebut dan memahami mengapa terjadi dominasi karyawan dari suku tersebut."
+            }
+        ]
+    },
+    {
+        "question_id": "d513ab08-730a-4e8e-b89c-1d9a3ca47bb0",
+        "question_value": "Saat anda melakukan kegiatan kuliah lapangan di desa selama dua bulan, beberapa warga mengeluhkan mengenai kebiasaan anda dan teman-teman yang sering rapat dan berbincang dengan rekan lokasi sampai larut malam. Apa yang seharusnya anda lakukan?",
+        "question_type": "TKP",
+        "answers": [
+            {
+                "question_id": "d513ab08-730a-4e8e-b89c-1d9a3ca47bb0",
+                "answer_id": "a",
+                "answer_value": "Mengingatkan teman anda dan tidak berbincang hingga larut malam."
+            },
+            {
+                "question_id": "d513ab08-730a-4e8e-b89c-1d9a3ca47bb0",
+                "answer_id": "b",
+                "answer_value": "Apabila sedang berkumpul dengan teman dibatasi tidak sampai larut malam."
+            },
+            {
+                "question_id": "d513ab08-730a-4e8e-b89c-1d9a3ca47bb0",
+                "answer_id": "c",
+                "answer_value": "Berusaha untuk membiasakan diri dengan membatasi jam berkumpul."
+            },
+            {
+                "question_id": "d513ab08-730a-4e8e-b89c-1d9a3ca47bb0",
+                "answer_id": "d",
+                "answer_value": "Menanyakan apa yang membuat perilaku mereka dikeluhkan oleh warga."
+            },
+            {
+                "question_id": "d513ab08-730a-4e8e-b89c-1d9a3ca47bb0",
+                "answer_id": "e",
+                "answer_value": "Tetap melakukannya karena keluhan warga merupakan hal yang wajar dan biasa."
+            }
+        ]
+    },
+    {
+        "question_id": "e63f1e1a-18df-495e-8606-498651221f92",
+        "question_value": "Teguh ditolak oleh Amin dan Leo ketika ditunjuk sebagai ketua kelompok penelitian karena ia berasal dari daerah. Budi tidak ingin mengecewakan Amin dan Leo, tetapi juga ingin menghargai kemampuan Teguh walaupun merupakan orang daerah. Apa yang sebaiknya dilakukan oleh Budi? ",
+        "question_type": "TKP",
+        "answers": [
+            {
+                "question_id": "e63f1e1a-18df-495e-8606-498651221f92",
+                "answer_id": "a",
+                "answer_value": "Menerima Teguh jika yang lain setuju atas penunjukan Teguh sebagai ketua kelompok penelitian."
+            },
+            {
+                "question_id": "e63f1e1a-18df-495e-8606-498651221f92",
+                "answer_id": "b",
+                "answer_value": "Mengusulkan agar Teguh diberikan kesempatan untuk menjadi ketua kelompok penelitian."
+            },
+            {
+                "question_id": "e63f1e1a-18df-495e-8606-498651221f92",
+                "answer_id": "c",
+                "answer_value": "Menyetujui pandangan Amin tentang Teguh sebagai orang daerah."
+            },
+            {
+                "question_id": "e63f1e1a-18df-495e-8606-498651221f92",
+                "answer_id": "d",
+                "answer_value": "Meminta Amin mengenali kemampuan Teguh sebelumnya."
+            },
+            {
+                "question_id": "e63f1e1a-18df-495e-8606-498651221f92",
+                "answer_id": "e",
+                "answer_value": "Mengajak semua teman-teman kelompok untuk menghargai Teguh sebagai orang daerah"
+            }
+        ]
+    },
+    {
+        "question_id": "7dc70ee7-c9e8-458f-b9d1-2c394fcd5246",
+        "question_value": "Ali adalah karyawan yang tingkat kehadirannya rendah pada bulan tertentu sehingga mengganggu kinerjanya. Sebagai pimpinan Ali, Aldo mendapatkan informasi bahwa Ali sering izin karena merayakan ritual keagamaannya yang banyak. Apa yang harus dilakukan Aldo ?",
+        "question_type": "TKP",
+        "answers": [
+            {
+                "question_id": "7dc70ee7-c9e8-458f-b9d1-2c394fcd5246",
+                "answer_id": "a",
+                "answer_value": "Tidak memberikan izin kepada Ali untuk melakukan ritual keagamaannya karena mengganggu kinerjanya."
+            },
+            {
+                "question_id": "7dc70ee7-c9e8-458f-b9d1-2c394fcd5246",
+                "answer_id": "b",
+                "answer_value": "Mencari informasi mengenai ritual-ritual keagamaan sesuai dengan agama yang dianut oleh Ali."
+            },
+            {
+                "question_id": "7dc70ee7-c9e8-458f-b9d1-2c394fcd5246",
+                "answer_id": "c",
+                "answer_value": "Menggali informasi dari Ali mengenai ritual-ritual keagamaan yang harus dilakukannya."
+            },
+            {
+                "question_id": "7dc70ee7-c9e8-458f-b9d1-2c394fcd5246",
+                "answer_id": "d",
+                "answer_value": "Menjelaskan tentang aturan kerja dan berdiskusi dengan Ali tentang cara untuk menyesuaikan diri antara bekerja dan beribadah."
+            },
+            {
+                "question_id": "7dc70ee7-c9e8-458f-b9d1-2c394fcd5246",
+                "answer_id": "e",
+                "answer_value": "Berusaha berdiskusi dengan Ali dan karyawan lain tentang aturan kehadiran yang disesuaikan dengan kebutuhan beribadah"
+            }
+        ]
+    },
+    {
+        "question_id": "dc962a5a-95cc-4d18-bd87-236017da2fa4",
+        "question_value": "Angga berada dalam satu kelas dengan Billy yang berasal dari Amerika. Ia merasa terganggu karena Billy sering memakai kaos dan celana pendek di kelas. Namun, Angga sadar bahwa ia adalah pendamping mahasiswa asing yang bertugas mengenalkan Billy kepada teman-temannya. Apa yang seharusnya dilakukan Angga ?",
+        "question_type": "TKP",
+        "answers": [
+            {
+                "question_id": "dc962a5a-95cc-4d18-bd87-236017da2fa4",
+                "answer_id": "a",
+                "answer_value": "Duduk berdekatan dengan Billy ketika terpaksa."
+            },
+            {
+                "question_id": "dc962a5a-95cc-4d18-bd87-236017da2fa4",
+                "answer_id": "b",
+                "answer_value": "Menjauhi Billy dan tidak mau berteman dengannya."
+            },
+            {
+                "question_id": "dc962a5a-95cc-4d18-bd87-236017da2fa4",
+                "answer_id": "c",
+                "answer_value": "Menemani Billy dan perlahan mengajarinya tentang budaya setempat."
+            },
+            {
+                "question_id": "dc962a5a-95cc-4d18-bd87-236017da2fa4",
+                "answer_id": "d",
+                "answer_value": "Bertegur sapa sewajarnya tanpa basa basi."
+            },
+            {
+                "question_id": "dc962a5a-95cc-4d18-bd87-236017da2fa4",
+                "answer_id": "e",
+                "answer_value": "Memberi tahu Billy bahwa caranya berpakaian tidak sesuai dengan norma setempat."
+            }
+        ]
+    },
+    {
+        "question_id": "0adfe12e-8ca4-4cc3-a824-01c8f054d728",
+        "question_value": "Afif sering bercanda dengan orang lain termasuk rekan kerja yang senior. Sikap Afif membuat beberapa rekan yang lebih senior menganggapnya tidak sopan sehingga mengganggu komunikasi kerja dengan rekan senior. Yang dapat dilakukan Dimas sebagai rekan kerja Afif adalah…",
+        "question_type": "TKP",
+        "answers": [
+            {
+                "question_id": "0adfe12e-8ca4-4cc3-a824-01c8f054d728",
+                "answer_id": "a",
+                "answer_value": "Tidak mengambil tindakan apapun karena hal tersebut merupakan urusan pribadi Afif."
+            },
+            {
+                "question_id": "0adfe12e-8ca4-4cc3-a824-01c8f054d728",
+                "answer_id": "b",
+                "answer_value": "Meminta sahabat dekat Afif memberitahunya agar lebih berhati-hati saat berkomunikasi."
+            },
+            {
+                "question_id": "0adfe12e-8ca4-4cc3-a824-01c8f054d728",
+                "answer_id": "c",
+                "answer_value": "Menjelaskan pada rekan kerja yang lain bahwa Afif memang orang yang ramah dan riang."
+            },
+            {
+                "question_id": "0adfe12e-8ca4-4cc3-a824-01c8f054d728",
+                "answer_id": "d",
+                "answer_value": "Memberi tahu Afif dan rekan kerja yang lain agar saling memahami dan menerima satu dengan yang lain."
+            },
+            {
+                "question_id": "0adfe12e-8ca4-4cc3-a824-01c8f054d728",
+                "answer_id": "e",
+                "answer_value": "Memberi pengertian pada rekan kerja yang lain agar mau mengerti bahwa Afif tidak berniat menyinggung mereka."
+            }
+        ]
+    },
+    {
+        "question_id": "730c577e-53f6-4681-b471-5462f0ce74c5",
+        "question_value": "Fuad memimpin proyek pembangunan double track kereta api yang melintasi desa Tempuran. Tiga bulan proyek mangkrak dan diprotes warga karena proyek ini melintasi masjid keramat asal-usul Desa Tempuran. Hal yang dapat dilakukan Fuad adalah…",
+        "question_type": "TKP",
+        "answers": [
+            {
+                "question_id": "730c577e-53f6-4681-b471-5462f0ce74c5",
+                "answer_id": "a",
+                "answer_value": "Segera melanjutkan proyek karena sudah terlambat dari jadwal yang direncanakan."
+            },
+            {
+                "question_id": "730c577e-53f6-4681-b471-5462f0ce74c5",
+                "answer_id": "b",
+                "answer_value": "Mengajak anak buahnya dan warga desa untuk bermusyawarah."
+            },
+            {
+                "question_id": "730c577e-53f6-4681-b471-5462f0ce74c5",
+                "answer_id": "c",
+                "answer_value": "Memerintahkan anak buahnya untuk menghormati masjid keramat itu"
+            },
+            {
+                "question_id": "730c577e-53f6-4681-b471-5462f0ce74c5",
+                "answer_id": "d",
+                "answer_value": "Memerintahkan anak buahnya untuk menghentikan sementara proyek."
+            },
+            {
+                "question_id": "730c577e-53f6-4681-b471-5462f0ce74c5",
+                "answer_id": "e",
+                "answer_value": "Bertanya kepada warga tentang alasan protes warga tersebut."
+            }
+        ]
+    },
+    {
+        "question_id": "cdaee374-da4a-4ecd-aa9b-f7c872f79b5b",
+        "question_value": "Anwar dan Sanusi adalah dua warga masyarakat yang tinggal di desa yang letaknya berdampingan. Kedua orang tersebut menjadi provokator setiap terjadinya tawuran antar desa yang berbeda tersebut. Tawuran antar desa tersebut menimbulkan kerugian, baik harta maupun nyawa. Andaikan anda tinggal di salah satu desa tersebut, apa yang anda lakukan ?",
+        "question_type": "TKP",
+        "answers": [
+            {
+                "question_id": "cdaee374-da4a-4ecd-aa9b-f7c872f79b5b",
+                "answer_id": "a",
+                "answer_value": "Saya merasa menyelesaikan masalah tawuran antarwarga harus dimulai dari keinginan warga"
+            },
+            {
+                "question_id": "cdaee374-da4a-4ecd-aa9b-f7c872f79b5b",
+                "answer_id": "b",
+                "answer_value": "Saya berpikir mediasi perlu dilakukan dalam masalah ini"
+            },
+            {
+                "question_id": "cdaee374-da4a-4ecd-aa9b-f7c872f79b5b",
+                "answer_id": "c",
+                "answer_value": "Meminta ketua lingkungan untuk melibatkan unsur masyarakat untuk menjaga keamanan dan stabilitas lingkungan"
+            },
+            {
+                "question_id": "cdaee374-da4a-4ecd-aa9b-f7c872f79b5b",
+                "answer_id": "d",
+                "answer_value": "Tidak bosan mengingatkan Anwar dan Sanusi mengenai pentingnya perdamaian antar warga"
+            },
+            {
+                "question_id": "cdaee374-da4a-4ecd-aa9b-f7c872f79b5b",
+                "answer_id": "e",
+                "answer_value": "Aktif membantu perangkat lingkungan untuk mensosialisasikan cara- cara penyelesaian persoalan tawuran antarwarga kepada semua pihak"
+            }
+        ]
+    },
+    {
+        "question_id": "a78612aa-45b8-419c-a4a8-b5f5531c32e3",
+        "question_value": "Andi adalah ketua OSIS. Pada tahun ajaran ini sekolah mendapat giliran sebagai tuan rumah kegiatan pertukaran pelajar. Banyak perilaku yang berbeda dari murid-murid tersebut. Beberapa diantaranya dirasakan mengganggu dirinya dan juga teman-temannya. Hal yang Andi lakukan adalah ....",
+        "question_type": "TKP",
+        "answers": [
+            {
+                "question_id": "a78612aa-45b8-419c-a4a8-b5f5531c32e3",
+                "answer_id": "a",
+                "answer_value": "Tidak perlu memperdulikan karakter murid-murid tersebut karena pertukaran pelajar hanya sementara"
+            },
+            {
+                "question_id": "a78612aa-45b8-419c-a4a8-b5f5531c32e3",
+                "answer_id": "b",
+                "answer_value": "Mengajak bicara salah satu murid tersebut untuk sekedar dapat memahami karakter murid-murid tersebut"
+            },
+            {
+                "question_id": "a78612aa-45b8-419c-a4a8-b5f5531c32e3",
+                "answer_id": "c",
+                "answer_value": "Menghubungi guru sekolah untuk mendapatkan kejelasan mengenai karakter murid-murid tersebut"
+            },
+            {
+                "question_id": "a78612aa-45b8-419c-a4a8-b5f5531c32e3",
+                "answer_id": "d",
+                "answer_value": "Bersama teman-teman melakukan pendekatan agar didapat pemahaman yang utuh mengenai mereka"
+            },
+            {
+                "question_id": "a78612aa-45b8-419c-a4a8-b5f5531c32e3",
+                "answer_id": "e",
+                "answer_value": "Membangun dialog dengan beberapa dari mereka agar dapat memahami karakter yang ada"
+            }
+        ]
+    },
+    {
+        "question_id": "65ce2fb8-17e2-4d45-8b84-b3e3d2c776d0",
+        "question_value": "Luki adalah warga baru di lingkungan anda. Ia sering bertengkar dengan warga sekitar yang dianggapnya tidak satu kepercayaannya dengannya. Luki adalah teman masa kecil anda. Sebagai teman, yang anda lakukan adalah …",
+        "question_type": "TKP",
+        "answers": [
+            {
+                "question_id": "65ce2fb8-17e2-4d45-8b84-b3e3d2c776d0",
+                "answer_id": "a",
+                "answer_value": "Mendukung pendirian Luki bahwa hal itu adalah kebebasan setiap orang dalam bergaul"
+            },
+            {
+                "question_id": "65ce2fb8-17e2-4d45-8b84-b3e3d2c776d0",
+                "answer_id": "b",
+                "answer_value": "Membiarkan sikap Luki tersebut asal ia berjanji tidak bertengkar dengan warga lainnya"
+            },
+            {
+                "question_id": "65ce2fb8-17e2-4d45-8b84-b3e3d2c776d0",
+                "answer_id": "c",
+                "answer_value": "Mencari hal terkait sikap Luki sebagai bahan untuk mencari solusi permasalahan"
+            },
+            {
+                "question_id": "65ce2fb8-17e2-4d45-8b84-b3e3d2c776d0",
+                "answer_id": "d",
+                "answer_value": "Meminta bantuan dari pihak keluarga dan orang dekat Luki agar Luki berhenti memusuhi warga lain"
+            },
+            {
+                "question_id": "65ce2fb8-17e2-4d45-8b84-b3e3d2c776d0",
+                "answer_id": "e",
+                "answer_value": "Mengajak Luki untuk berdialog dengan melibatkan warga di lingkungan tempat tinggalnya agar mereka hidup harmonis"
+            }
+        ]
+    },
+    {
+        "question_id": "1c99ad73-7de2-4481-b1ac-da7051d4fcb2",
+        "question_value": "Bombom adalah salah satu pemimpin ormas keagamaan di kampus, tetapi pemikirannya cenderung radikal sehingga membuat organisasinya dicap ekstrim. Sebelumnya organisasi tersebut sangat terkenal dengan kesantunan dan cinta damai sehingga sebagian anggota memikirkan cara untuk menyelamatkan organisasi ini. Sebagai anggota, apa yang anda lakukan ?",
+        "question_type": "TKP",
+        "answers": [
+            {
+                "question_id": "1c99ad73-7de2-4481-b1ac-da7051d4fcb2",
+                "answer_id": "a",
+                "answer_value": "Mengajak beberapa teman yang berkomitmen melakukan tindakan penyelamatan organisasi dan penyusunan program"
+            },
+            {
+                "question_id": "1c99ad73-7de2-4481-b1ac-da7051d4fcb2",
+                "answer_id": "b",
+                "answer_value": "Menyusun strategi untuk membuat berbagai kegiatan organisasi yang mempertahankan nilai-nilai cinta damai"
+            },
+            {
+                "question_id": "1c99ad73-7de2-4481-b1ac-da7051d4fcb2",
+                "answer_id": "c",
+                "answer_value": "Memiliki keinginan untuk mempertahankan kegiatan organisasi yang selalu menjunjung tinggi kehidupan yang cinta damai"
+            },
+            {
+                "question_id": "1c99ad73-7de2-4481-b1ac-da7051d4fcb2",
+                "answer_id": "d",
+                "answer_value": "Memahami adanya ketidakseimbangan dalam organisasi, tetapi belum memiliki program yang sesuai"
+            },
+            {
+                "question_id": "1c99ad73-7de2-4481-b1ac-da7051d4fcb2",
+                "answer_id": "e",
+                "answer_value": "Belum merasakan akibat langsung yang negatif dilakukan oleh Bombom sehingga bersikap netral saja."
+            }
+        ]
+    },
+    {
+        "question_id": "48b00f99-7694-4e83-9123-09c471e48f5a",
+        "question_value": "Karena diusung oleh beberapa partai koalisinya, Par Ruslan berhasil terpilih menjadi kepala daerah di kotanya. Ia memiliki visi mewujudkan kota yang menjunjung kota yang cinta damai. Namun, Sebagian masyarakat meragukan kemampuannya untuk memimpin warga yang sangat heterogen. Apa yang harus dilakukan Pak Ruslan ?",
+        "question_type": "TKP",
+        "answers": [
+            {
+                "question_id": "48b00f99-7694-4e83-9123-09c471e48f5a",
+                "answer_id": "a",
+                "answer_value": "Meyakinkan bahwa perdamaian akan tercipta jika masyarakat mayoritas yang memilihnya dapat tetap solid mendukung"
+            },
+            {
+                "question_id": "48b00f99-7694-4e83-9123-09c471e48f5a",
+                "answer_id": "b",
+                "answer_value": "Memahami pentingnya perwujudan nilai cinta damai dalam masyarakat di kotanya"
+            },
+            {
+                "question_id": "48b00f99-7694-4e83-9123-09c471e48f5a",
+                "answer_id": "c",
+                "answer_value": "Memilih keinginan untuk membuat kebijakan yang mengutamakan nilai-nilai cinta damai dalam kehidupan bermasyarakat"
+            },
+            {
+                "question_id": "48b00f99-7694-4e83-9123-09c471e48f5a",
+                "answer_id": "d",
+                "answer_value": "Melakukan tindakan untuk mewujudkan kota yang masyarakatnya menjunjung tinggi suasana cinta damai"
+            },
+            {
+                "question_id": "48b00f99-7694-4e83-9123-09c471e48f5a",
+                "answer_id": "e",
+                "answer_value": "Menyusun program kota yang cinta damai dan mempresentasikan di hadapan aparat pemda untuk mendapat umpan balik"
+            }
+        ]
+    }
     ]
 }

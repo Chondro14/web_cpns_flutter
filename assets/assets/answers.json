@@ -124,9 +124,6 @@
                 }
             ]
         },
-
-
-
         {
             "questionId":"5e4c0a5e-7f36-4eae-9e4d-019a73c9d4a0",
             "typeQuestion":"TWK",
@@ -381,26 +378,6 @@
             ]
         },
         {
-            "questionId":"",
-            "typeQuestion":"TUI",
-            "correctAnswerId":[
-                {
-                    "answerId":"",
-                    "score":5
-                }
-            ]
-        },
-        {
-            "questionId":"",
-            "typeQuestion":"TUI",
-            "correctAnswerId":[
-                {
-                    "answerId":"",
-                    "score":5
-                }
-            ]
-        },
-        {
             "questionId":"94b691d5-f7b2-452d-a7f4-207a871f51a2",
             "typeQuestion":"TUI",
             "correctAnswerId":[
@@ -511,6 +488,16 @@
             ]
         },
         {
+            "questionId":"f58efc6b-9e89-4d12-90a2-9b3e6c77a9e1",
+            "typeQuestion":"TUI",
+            "correctAnswerId":[
+                {
+                    "answerId":"b",
+                    "score":5
+                }
+            ]
+        },
+        {
             "questionId":"9c7dcd9c-cfc0-4c06-9a06-ba7251eeb79f",
             "typeQuestion":"TUI",
             "correctAnswerId":[
@@ -520,8 +507,6 @@
                 }
             ]
         },
-
-
         {
             "questionId":"edb7b3a6-2d15-4fea-9936-60d341f018d9",
             "typeQuestion":"TUI",

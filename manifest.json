@@ -1,6 +1,6 @@
 {
-    "name": "cpns_tryout",
-    "short_name": "cpns_tryout",
+    "name": "Tryout Acadamy CPNS",
+    "short_name": "Tryout Acadamy CPNS",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
